@@ -1,4 +1,6 @@
-| Catégorie                                     | Description                                                                                     | Critères                                                                                    | Colonnes supplémentaires                                                    |
+## Critères d'affectations dans les sous catégories 
+
+| Catégorie                                     | Description                                                                                     | Critères                                                                                    | Remarques                                                   |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | **1. DIVERSITÉ**                             |                                                                                                 |                                                                                            |                                                                              |
 | **1.1 CULTURES**                             |                                                                                                 |                                                                                            |                                                                              |
@@ -22,6 +24,34 @@
 | **1.4 DIVERSITÉ DES ACTIVITÉS, PRODUITS ET SERVICES** |                                                                                             |                                                                                            |                                                                              |
 |                                               | 0 - Une seule activité productive                                                                | Vente d'un seul produit végétal (cultures classiques) ou miel ou oeufs ou viande             | !!! majoration potentielle du nombre de cultures vendues pour les cultivateurs classiques (sans jardin océanien) : dans le RGA, un exploitant qui cultive des tomates et des concombres a dû répondre s'il vendait ses produits maraîchers. Pas possible de déterminer à partir du RGA s'il vend ses tomates et/ou ses concombres |
 |                                               | 1 - Deux ou trois activités productives                                                         | Vente de 2 ou 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande OU vente de 1 type de produits (potentiellement plusieurs cultures) dans les jardins océaniens   |                                                                              |
-|                                               | 2 - Plus de 3 activités productives                                                              | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 0 service OU vente de plus d'un type de produits dans les jardins océaniens et 0 service | !!! Pour les jardins océaniens : toutes les cultures ne sont pas listées -> comment les classer ?                                        |
-|                                               | 3 - Plus de 3 activités productives et un service                                               | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 1 service OU vente de plus d'un type de produits dans les jardins océaniens et 1 service | Pour les services : cf. Onglet 1.1                                               |
+|                                               | 2 - Plus de 3 activités productives                                                              | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 0 service OU vente de plus d'un type de produits dans les jardins océaniens et 0 service | !!! Pour les jardins océaniens : toutes les cultures ne sont pas listées donc prise en compte particulière (cf. critères)                                       |
+|                                               | 3 - Plus de 3 activités productives et un service                                               | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 1 service OU vente de plus d'un type de produits dans les jardins océaniens et 1 service | Pour les services : cf. ci-dessous la liste des transformations et des activités prises en compte                                               |
 |                                               | 4 - Plus de 3 activités productives et plusieurs services                                        | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 2 services ou plus OU vente de plus d'un type de produits dans les jardins océaniens et 2 services ou plus |                                                                              |
+
+
+
+## Liste des transformations prises en compte :
+
+- Transformation d’oléagineux (huiles de consommation ou pour combustible)
+- Production d’huiles essentielles et hydrolats
+- Epluchage, découpe, conditionnement, 4ème gamme
+- Transformation de légumes (soupe, conserves…)
+- Transformation de racines ou tubercules (farine de manioc, kwak...)
+- Production issue de canne à sucre (jus de canne, rhum...)
+- Transformation de vanille
+- Transformation de produits du cocotier (coprah, niau, lait de coco, …)
+- Transformation de fruits (confitures, sirops, liqueurs, jus de fruits…)
+- Transformation de lait (beurre, yaourts, fromages, crème...)
+- Abattage à la ferme
+- Transformation de viandes (pâtés, salaisons, conserves…)
+- Découpe de viandes, caissettes…
+- Production de produits à base de miel
+- Transformation d’autres produits agricoles (hors aliments pour les animaux de l’exploitation)
+- Préparation de plats cuisinés
+
+## Activités prises en compte :
+
+- Agro-tourisme
+- Artisan
+
+

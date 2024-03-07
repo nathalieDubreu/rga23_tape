@@ -11,15 +11,32 @@
 | 3 - Plus de 3 cultures avec une superficie cultivée importante adaptée aux conditions locales   | Plus de 3 cultures                                                                         |
 | 4 - Plus de 3 cultures de variétés différentes adaptées aux conditions locales                  | Plus de 3 cultures avec pratique de l'interculture OU présence de jardins océaniens         |
 
+### Répartition des exploitations 
+
+score   n
+   0  1121
+   1   278
+   2   458
+   3  1799
+   4   405
+
 ## 1.2 ANIMAUX (Y COMPRIS LES POISSONS ET LES INSECTES)
 
 | Sous catégorie                                                                                     | Critères                                                                                    |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | 0 - Aucun animal élevé                                                                          | 0 espèce                                                                                   |
-| 1 - Une seule espèce élevée                                                                     | 1 seul espèce                                                                              |
+| 1 - Une seule espèce élevée                                                                     | 1 seule espèce                                                                              |
 | 2 - Deux ou trois espèces, avec peu d’animaux                                                    | 2 ou 3 espèces                                                                             |
 | 3 - Plus de 3 espèces avec un nombre significatif d’animaux                                      | Plus de 3 espèces OU 3 espèces avec dépassement d'au moins un seuil RGA23 d'élevage         |
 | 4 - Plus de 3 espèces de races différentes bien adaptées aux conditions climatiques locales     | Pas de condition développée - voir au cas par cas parmi l'index 3 ?                        |
+
+### Répartition des exploitations 
+
+score   n
+   0  2954
+   1   867
+   2   187
+   3    53
 
 ## 1.3 ARBRES (ET AUTRES VIVACES)
 
@@ -34,6 +51,15 @@ La seconde liste de critères est appliquée aux exploitations qui n'ont pas pu 
 | 3 - Nombre important d’arbres (et / ou autres vivaces)    | Plus d'une culture d'arbres : De 11 à 30 arbres à l'Ha + pas de jardins océaniens                                                      | (Surface des arbres + surface jardins océaniens) / SAU > 10% surface                                      |
 | 4 - Nombre élevé d’arbres (et / ou autres plantes vivaces) | Au moins une culture d'arbres : > 30 arbres à l'Ha OU présence de jardins océaniens                                                   | (Surface des arbres + surface jardins océaniens) / SAU > 30% surface                                      |
 
+### Répartition des exploitations 
+
+ score  n
+   0   645
+   1   756
+   2    52
+   3   178
+   4  2430
+
 ## 1.4 DIVERSITÉ DES ACTIVITÉS, PRODUITS ET SERVICES
 
 | Catégorie                                                      | Critères                                                                                                               |
@@ -43,6 +69,16 @@ La seconde liste de critères est appliquée aux exploitations qui n'ont pas pu 
 | 2 - Plus de 3 activités productives.                         | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 0 service OU vente de plus d'un type de produits dans les jardins océaniens  et 0 service |
 | 3 - Plus de 3 activités productives et un service (par ex. transformation de produits à la ferme, écotourisme, transport de produits agricoles, formation, etc.). | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 1 service OU vente de plus d'un type de produits dans les jardins océaniens  et 1 service |
 | 4 - Plus de 3 activités productives et plusieurs services.    | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 2 services ou plus OU vente de plus d'un type de produits dans les jardins océaniens  et  2 services ou plus |
+
+### Répartition des exploitations 
+
+score   n
+   0  1083
+   1   725
+   2  1229
+   3   393
+   4   260
+   9   371 => exploitations qui ne vendent aucun produit
 
 ### Remarques 1.4 :
 

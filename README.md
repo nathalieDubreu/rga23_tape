@@ -39,7 +39,7 @@ Avec les filtres proposés, voici le classement :
 |  3-4  |            1           |
 | Non classées |      2881        |
 
-<font color="Orange">Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...</font>
+<span style="Orange">Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...</span>
 
 ## Catégories et sous-catégories traitées
     

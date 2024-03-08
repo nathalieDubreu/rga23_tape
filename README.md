@@ -43,6 +43,9 @@ Avec les filtres proposés, voici le classement :
 
 ## Catégories et sous-catégories traitées
     
-- [Diversité](1-Diversity.md) - 4 sous catégories : DONE
-- [Efficience](3-Efficience.md) - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1313 exploitations encore à classer)
-- [Recyclage](4-Recyclage.md) - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
+- [Diversité](1-Diversity.md)
+    - 4 sous catégories : DONE
+- [Efficience](3-Efficience.md)
+    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1313 exploitations encore à classer)
+- [Recyclage](4-Recyclage.md)
+    - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)

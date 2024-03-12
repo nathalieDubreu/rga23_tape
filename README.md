@@ -23,8 +23,8 @@
 La colonne de droite correspond à ce que la DAG a indiqué comme filtres.
 
 **Pour info :**
-- Moins de 400 exploitants ont déclaré des pâturages ;
-- 1556 exploitations déclarent faire une des 3 techniques suivantes :
+- Moins de 300 exploitants ont déclaré des pâturages ;
+- 1037 exploitations déclarent faire une des 3 techniques suivantes :
   - Utilisation de plantes de services.............1
   - Intercultures..................................2
   - Paillage (plastique ou naturel)................5
@@ -33,11 +33,11 @@ Avec les filtres proposés, voici le classement :
 
 | Score | Nombre d'exploitations |
 |-------|------------------------|
-|   0   |          336           |
-|   1   |          747           |
-|   2   |           95           |
-|  3-4  |            1           |
-| Non classées |      2881        |
+|   0   |          377           |
+|   1   |          1165           |
+|   2   |           93           |
+|  3-4  |            0           |
+| Non classées |      855       |
 
 => **Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...**
 

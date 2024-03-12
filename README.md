@@ -5,7 +5,7 @@
 - [Dictionnaire des variables et modalités du RGA](https://docs.google.com/spreadsheets/d/16DxQiRkNIRXOBTypMM7NZsaku60rkBLX/edit?usp=sharing&ouid=111896801001167457308&rtpof=true&sd=true)
 
 ## **Champ** : 
-- Toutes les exploitations éligibles au RGA 2023 en cultures ou en élevages sans aucun seuil de surface ou de cheptel i.e. 4061 exploitations (Surface de production agricole à partir de 4m²)
+- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL
 - Hors unités interrogées initialement au titre de la coprahculture
 
 ## Questions en attente de retours de la DAG

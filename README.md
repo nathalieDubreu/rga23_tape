@@ -59,7 +59,7 @@ Avec les filtres proposés, voici le classement :
 | 9     | NA                   | NA                  | NA                 | 205                  |
 
 - [Efficience](3-Efficience.md)
-    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (939 exploitations encore à classer)
+    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1060 exploitations encore à classer)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|-----------------------|--------------------------|----------------------------------|

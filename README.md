@@ -42,10 +42,42 @@ Avec les filtres proposés, voici le classement :
 => **Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...**
 
 ## Catégories et sous-catégories traitées
+
+- Score allant de 0 à 4 selon les index
+- Code 5 -> exploitations non classées
+- Code 9 -> exploitations non concernées
     
 - [Diversité](1-Diversity.md)
     - 4 sous catégories : DONE
+  
+| score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
+|-------|----------------------|---------------------|--------------------|----------------------|
+| 0     | 377                  | 1886                | 234                | 403                  |
+| 1     | 210                  | 405                 | 267                | 462                  |
+| 2     | 284                  | 151                 | 48                 | 891                  |
+| 3     | 1448                 | 48                  | 152                | 326                  |
+| 4     | 171                  | NA                  | 1789               | 228                  |
+| 9     | NA                   | NA                  | NA                 | 180                  |
+
 - [Efficience](3-Efficience.md)
-    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1313 exploitations encore à classer)
+    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (939 exploitations encore à classer)
+ 
+| score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
+|-------|------------------------|-----------------------|--------------------------|----------------------------------|
+| 0     | 552                    | 1778                  | 148                      | 668                              |
+| 1     | 918                    | 142                   | 179                      | 49                               |
+| 2     | 50                     | 11                    | 54                       | 509                              |
+| 3     | 25                     | 8                     | 24                       | 831                              |
+| 4     | 6                      | 551                   | 2085                     | 433                              |
+| 5     | 939                    | NA                    | NA                       | NA                               |
+
 - [Recyclage](4-Recyclage.md)
     - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
+
+| score | Recyclage_4_Energie    |
+|-------|------|
+| 0     | 2375 |
+| 1     | 22   |
+| 2     | 17   |
+| 3     | 23   |
+| 4     | 53   |

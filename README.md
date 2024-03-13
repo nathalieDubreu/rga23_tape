@@ -80,3 +80,5 @@ Avec les filtres proposés, voici le classement :
 | 2     | 24   |
 | 3     | 33   |
 | 4     | 56   |
+
+- Culture et traditions alimentaires -> cette catégorie n'est pas traitée dans le cadre du RGA 23

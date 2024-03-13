@@ -33,11 +33,11 @@ Avec les filtres proposés, voici le classement :
 
 | Score | Nombre d'exploitations |
 |-------|------------------------|
-|   0   |          377           |
-|   1   |          1165           |
-|   2   |           93           |
+|   0   |          573           |
+|   1   |          1278           |
+|   2   |           623           |
 |  3-4  |            0           |
-| Non classées |      332       |
+| Non classées |      367       |
 
 => **Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...**
 
@@ -51,32 +51,32 @@ Avec les filtres proposés, voici le classement :
   
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
 |-------|----------------------|---------------------|--------------------|----------------------|
-| 0     | 377                  | 1886                | 234                | 403                  |
-| 1     | 210                  | 405                 | 267                | 462                  |
-| 2     | 284                  | 151                 | 48                 | 891                  |
-| 3     | 1448                 | 48                  | 152                | 326                  |
-| 4     | 171                  | NA                  | 1789               | 228                  |
-| 9     | NA                   | NA                  | NA                 | 180                  |
+| 0     | 573                  | 1959                | 283                | 588                  |
+| 1     | 223                  | 654                 | 426                | 524                  |
+| 2     | 298                  | 176                 | 50                 | 949                  |
+| 3     | 1463                 | 52                  | 156                | 336                  |
+| 4     | 284                  | NA                  | 1926               | 239                  |
+| 9     | NA                   | NA                  | NA                 | 205                  |
 
 - [Efficience](3-Efficience.md)
     - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (939 exploitations encore à classer)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|-----------------------|--------------------------|----------------------------------|
-| 0     | 552                    | 1778                  | 148                      | 668                              |
-| 1     | 918                    | 142                   | 179                      | 49                               |
-| 2     | 50                     | 11                    | 54                       | 509                              |
-| 3     | 25                     | 8                     | 24                       | 831                              |
-| 4     | 6                      | 551                   | 2085                     | 433                              |
-| 5     | 939                    | NA                    | NA                       | NA                               |
+| 0     | 609                    | 2071                  | 154                      | 793                              |
+| 1     | 1067                   | 148                   | 193                      | 56                               |
+| 2     | 60                     | 12                    | 60                       | 583                              |
+| 3     | 39                     | 8                     | 29                       | 933                              |
+| 4     | 6                      | 602                   | 2405                     | 476                              |
+| 5     | 1060                   | NA                    | NA                       | NA                               |
 
 - [Recyclage](4-Recyclage.md)
     - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | score | Recyclage_4_Energie    |
 |-------|------|
-| 0     | 2375 |
-| 1     | 22   |
-| 2     | 17   |
-| 3     | 23   |
-| 4     | 53   |
+| 0     | 2702 |
+| 1     | 26   |
+| 2     | 24   |
+| 3     | 33   |
+| 4     | 56   |

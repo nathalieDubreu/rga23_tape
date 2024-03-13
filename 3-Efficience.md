@@ -10,16 +10,6 @@
 |   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Engrais de synthèse + engrais minéraux bio + engrais organiques avec engrais organiques présents utilisés à plus de 75% |
 |   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | Aucun engrais de synthèse mais minéraux et/ou organiques |
 
-### Répartition des exploitations 
-
-| score | n   |
-|-------|-----|
-|   0   | 3036|
-|   1   |  187|
-|   2   |   16|
-|   3   |   10|
-|   4   |  812|
-
 ## 3.3 GESTION DES PESTES ET DES MALADIES
 
 | Sous catégorie | Description | Filtre |
@@ -29,16 +19,6 @@
 |   2    | Les ravageurs et les maladies sont gérés par des pratiques biologiques, mais les pesticides chimiques sont utilisés seulement dans des cas spécifiques et très limités. | Utilisation de produits phyto chimiques sur une seule culture/espèce |
 |   3    | Aucun pesticide ni médicament chimique n’est utilisé. Les substances biologiques sont la norme. | Utilisation uniquement de produits phyto biologiques |
 |   4    | Aucun pesticide ni médicament chimique n’est utilisé. Les ravageurs et les maladies sont gérés par une variété de substances biologiques et de mesures de prévention. | Aucune utilisation de produits phyto |
-
-### Répartition des exploitations 
-
-| score | n    |
-|-------|------|
-|   0   |  204 |
-|   1   |  231 |
-|   2   |   78 |
-|   3   |   51 |
-|   4   | 3497 |
 
 ## 3.4 PRODUCTIVITÉ ET BESOINS DU MÉNAGE
 
@@ -50,13 +30,3 @@
 |   3    | La production couvre les besoins alimentaires du ménage et les excédents génèrent des liquidités pour acheter les produits essentiels et réaliser des économies sporadiques. | Réponse "Oui, de façon occasionnelle" à la question "Les revenus de votre production agricole vous permettent-ils de réaliser des économies ?" |
 |   4    | Tous les besoins du ménage sont satisfaits, à la fois en nourriture et en espèces, pour acheter tous les produits nécessaires et pour avoir des économies régulières. | Réponse "Oui, de façon régulière" à la question "Les revenus de votre production agricole vous permettent-ils de réaliser des économies ?" |
 
-
-### Répartition des exploitations 
-
-| score | n    |
-|-------|------|
-|   0   | 1314 |
-|   1   |   91 |
-|   2   |  837 |
-|   3   | 1243 |
-|   4   |  576 |

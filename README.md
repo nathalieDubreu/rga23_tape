@@ -23,8 +23,8 @@
 La colonne de droite correspond à ce que la DAG a indiqué comme filtres.
 
 **Pour info :**
-- Moins de 300 exploitants ont déclaré des pâturages ;
-- 1037 exploitations déclarent faire une des 3 techniques suivantes :
+- Moins de 350 exploitants ont déclaré des pâturages ;
+- 1088 exploitations déclarent faire une des 3 techniques suivantes :
   - Utilisation de plantes de services.............1
   - Intercultures..................................2
   - Paillage (plastique ou naturel)................5

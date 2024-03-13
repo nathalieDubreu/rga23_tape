@@ -9,15 +9,3 @@
 |   2    | La moitié de l’énergie utilisée est autoproduite, l’autre moitié est achetée. | Environ 50% en réponse à la question "Quel niveau d’autonomie assurez-vous avec ces énergies renouvelables ?" |
 |   3    | Production importante d’énergie renouvelable, utilisation négligeable de carburant et d’autres sources non renouvelables. | Environ 75% en réponse à la question "Quel niveau d’autonomie assurez-vous avec ces énergies renouvelables ?" |
 |   4    | Toute l’énergie utilisée est renouvelable et/ou autoproduite. Le ménage est autosuffisant pour l’approvisionnement en énergie, qui est garanti à tout moment. L’utilisation de combustibles fossiles est négligeable. | Environ 100% en réponse à la question "Quel niveau d’autonomie assurez-vous avec ces énergies renouvelables ?" |
-
-### Répartition des exploitations 
-
-| score | n    |
-|-------|------|
-|   0   | 3859 |
-|   1   |   34 |
-|   2   |   36 |
-|   3   |   49 |
-|   4   |   83 |
-
-

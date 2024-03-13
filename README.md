@@ -42,10 +42,9 @@ Avec les filtres proposés, voici le classement :
 => **Quelles variables prendre en compte au-delà de ces 3 techniques et des cultures fourragères (y compris pâturages) trop minoritaires pour servir de base aux filtres...**
 
 ## Catégories et sous-catégories traitées
-
-- Score allant de 0 à 4 selon les index
-- Code 5 -> exploitations non classées
-- Code 9 -> exploitations non concernées
+    - Score allant de 0 à 4 selon les index
+    - Code 5 -> exploitations non classées
+    - Code 9 -> exploitations non concernées
     
 - [Diversité](1-Diversity.md)
     - 4 sous catégories : DONE

@@ -5,8 +5,9 @@
 - [Dictionnaire des variables et modalités du RGA](https://docs.google.com/spreadsheets/d/16DxQiRkNIRXOBTypMM7NZsaku60rkBLX/edit?usp=sharing&ouid=111896801001167457308&rtpof=true&sd=true)
 
 ## **Champ** : 
-- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL
+- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus
 - Hors unités interrogées initialement au titre de la coprahculture
+- => 2839 unités
 
 ## Questions en attente de retours de la DAG
 
@@ -51,11 +52,11 @@ Avec les filtres proposés, voici le classement :
   
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
 |-------|----------------------|---------------------|--------------------|----------------------|
-| 0     | 573                  | 1959                | 283                | 588                  |
+| 0     | 573                  | 1957                | 283                | 588                  |
 | 1     | 223                  | 654                 | 426                | 524                  |
 | 2     | 298                  | 176                 | 50                 | 949                  |
 | 3     | 1463                 | 52                  | 156                | 336                  |
-| 4     | 284                  | NA                  | 1926               | 239                  |
+| 4     | 282                  | NA                  | 1924               | 239                  |
 | 9     | NA                   | NA                  | NA                 | 205                  |
 
 - [Efficience](3-Efficience.md)
@@ -63,19 +64,19 @@ Avec les filtres proposés, voici le classement :
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|-----------------------|--------------------------|----------------------------------|
-| 0     | 609                    | 2071                  | 154                      | 793                              |
-| 1     | 1067                   | 148                   | 193                      | 56                               |
+| 0     | 609                    | 2070                  | 154                      | 793                              |
+| 1     | 1066                   | 148                   | 193                      | 56                               |
 | 2     | 60                     | 12                    | 60                       | 583                              |
-| 3     | 39                     | 8                     | 29                       | 933                              |
-| 4     | 6                      | 602                   | 2405                     | 476                              |
-| 5     | 1060                   | NA                    | NA                       | NA                               |
-
+| 3     | 39                     | 8                     | 29                       | 931                              |
+| 4     | 6                      | 601                   | 2403                     | 476                              |
+| 5     | 1059                   | NA                    | NA                       | NA                               |
+   
 - [Recyclage](4-Recyclage.md)
     - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | score | Recyclage_4_Energie    |
 |-------|------|
-| 0     | 2702 |
+| 0     | 2700 |
 | 1     | 26   |
 | 2     | 24   |
 | 3     | 33   |

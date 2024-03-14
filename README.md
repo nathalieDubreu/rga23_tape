@@ -51,5 +51,5 @@
 
 - Culture et traditions alimentaires -> cette catégorie n'est pas traitée dans le cadre du RGA 23
 
-## Catégories et sous-catégories traitées
-- [Questions en attente de retours DAG](QuestionsPourLaDAG.md)
+## WIP
+- [Questions en attente de retours DAG](QuestionsPourLaDag.md)

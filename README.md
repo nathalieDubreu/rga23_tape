@@ -13,7 +13,9 @@
     - Score allant de 0 à 4 selon les index
     - Code 5 -> exploitations non classées
     - Code 9 -> exploitations non concernées
-    
+
+- Rappel pour toutes les catégories et sous-catégories : pas de déclinaison hommes/femmes en Polynésie.
+
 - [Diversité](1-Diversity.md)
     - 4 sous catégories : DONE
   

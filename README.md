@@ -32,6 +32,7 @@
 
 - [Synergies](2-Synergies.md)
     - Sous catégories 2.2 : DONE
+      
 | score | Synergies_1_Integration | Synergies_2_SolPlantes |
 |-------|-------------------------|------------------------|
 | 0     | 2206                    | 303                    |
@@ -41,7 +42,6 @@
 | 4     | 76                      | 7                      |
 | 5     | 253                     | NA                     |
 | 9     | NA                      | 171                    |
-
 
 - [Efficience](3-Efficience.md)
     - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1045 exploitations encore à classer)

@@ -15,7 +15,7 @@
 
 ## Catégories et sous-catégories traitées
     - Score allant de 0 à 4 selon les index
-    - Code 5 -> exploitations non classées
+    - Code 5 -> exploitations non classées (acceptable jusqu'à 10% du nombre d'exploitations)
     - Code 9 -> exploitations non concernées
 
 - [Diversité](1-Diversity.md)

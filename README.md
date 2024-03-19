@@ -9,12 +9,14 @@
 - Hors points liés aux 2,7 tonnes de coprah
 - => 2825 unités
 
+## Rappel - limites du RGA dans le cadre de l'analyse TAPE
+- Seuls les chefs d'exploitations sont interrogés (pas les travailleurs) 
+- Pas de déclinaison hommes/femmes dans les catégories et sous-catégories ni selon l'âge des travailleurs
+
 ## Catégories et sous-catégories traitées
     - Score allant de 0 à 4 selon les index
     - Code 5 -> exploitations non classées
     - Code 9 -> exploitations non concernées
-
-- Rappel pour toutes les catégories et sous-catégories : pas de déclinaison hommes/femmes en Polynésie.
 
 - [Diversité](1-Diversity.md)
     - 4 sous catégories : DONE
@@ -27,6 +29,19 @@
 | 3     | 1453                | 53                  | 156                | 330                  |
 | 4     | 279                 | NA                  | 1951               | 236                  |
 | 9     | NA                  | NA                  | NA                 | 194                  |
+
+- [Synergies](2-Synergies.md)
+    - Sous catégories 2.2 : DONE
+| score | Synergies_1_Integration | Synergies_2_SolPlantes |
+|-------|-------------------------|------------------------|
+| 0     | 2206                    | 303                    |
+| 1     | 181                     | 1562                   |
+| 2     | 57                      | 679                    |
+| 3     | 52                      | 103                    |
+| 4     | 76                      | 7                      |
+| 5     | 253                     | NA                     |
+| 9     | NA                      | 171                    |
+
 
 - [Efficience](3-Efficience.md)
     - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1045 exploitations encore à classer)
@@ -41,7 +56,7 @@
 | 5     | 1045                   | NA                   | NA                      | NA                                |
    
 - [Recyclage](4-Recyclage.md)
-    - Uniquement la sous catégories 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
+    - Sous catégorie 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | score | Recyclage_4_Energie    |
 |-------|-----|
@@ -54,4 +69,4 @@
 - Culture et traditions alimentaires -> cette catégorie n'est pas traitée dans le cadre du RGA 23
 
 ## WIP
-- [Questions en attente de retours DAG](QuestionsPourLaDag.md)
+- [Questions en attente de retours](QuestionsPourLaDag.md)

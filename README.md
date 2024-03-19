@@ -9,7 +9,7 @@
 - Hors points liés aux 2,7 tonnes de coprah
 - => 2825 unités
 
-## Rappel - limites du RGA dans le cadre de l'analyse TAPE
+## Rappel des limites du RGA dans le cadre de l'analyse TAPE
 - Seuls les chefs d'exploitations sont interrogés (pas les travailleurs) 
 - Pas de déclinaison hommes/femmes dans les catégories et sous-catégories ni selon l'âge des travailleurs
 
@@ -66,7 +66,12 @@
 | 3     |   33|
 | 4     |   53|
 
-- Culture et traditions alimentaires -> cette catégorie n'est pas traitée dans le cadre du RGA 23
-
 ## WIP
 - [Questions en attente de retours](QuestionsPourLaDag.md)
+
+## Catégories et sous-catégories Tape NON traitées via le RGA
+
+- 6. CULTURE & TRADITIONS ALIMENTAIRES
+- 10.2 ORGANIZATIONS ET ASSOCIATIONS DE PRODUCTEURS
+- 10.3 PARTICIPATION DES PRODUCTEURS DANS LA GOUVERNANCE DE LA TERRE ET DES RESSOURCES NATURELLES
+

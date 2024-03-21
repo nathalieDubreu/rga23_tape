@@ -45,7 +45,7 @@
 | 99    | -                        | 171                    |
 
 - [Efficience](3-Efficience.md)
-    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (1045 exploitations encore à classer)
+    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (plus de 1000 exploitations encore à classer)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|-----------------------|--------------------------|----------------------------------|
@@ -69,7 +69,7 @@
 | 4     |   53|
 
 - [Cocreation](7-Cocreation.md)
-    - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (1727 exploitations encore à classer)
+    - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (plus de 1700 exploitations encore à classer)
 
 | score | Cocreation_1_Plateformes | Cocreation_2_AccesConnaissances | Cocreation_3_Participation |
 |-------|---------------------------|----------------------------------|-----------------------------|

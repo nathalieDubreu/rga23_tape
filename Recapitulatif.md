@@ -1,8 +1,8 @@
-| Catégories et sous catégories                                |     Etat d'avancement     |        Validation          |
+| Catégories et sous catégories                                |     Etat d'avancement     |        Accord FAO          |
 |-------------------------------------------------------------|:-------------------------:|:--------------------------:|
 | **1. Diversité**                                          |            ---               |             ---               |
 |    1.1 Cultures                                            |            ✔️             |                            |
-|    1.2 Animaux (y compris les poissons et les insectes)    |            ✔️             |                            |
+|    1.2 Animaux (y compris les poissons et les insectes)    |            ⏳             |                            |
 |    1.3 Arbres (et autres vivaces)                          |            ✔️             |                            |
 |    1.4 Diversité des activités, produits et services       |            ✔️             |                            |
 | **2. Synergies**                                           |            ---               |             ---                |

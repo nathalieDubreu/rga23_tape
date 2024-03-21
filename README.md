@@ -83,6 +83,7 @@
 
 ## WIP
 - [Questions en attente de retours](QuestionsPourLaDag.md)
+- [Récapitulatif avancement](Recapitulatif.md)
 
 ## Catégories et sous-catégories Tape NON traitées via le RGA
 

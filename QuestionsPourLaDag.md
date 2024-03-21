@@ -12,23 +12,23 @@
 
 => restent 991 exploitations à classer dont : 
 
-- 392 exploitations : 
+- 392 exploitations -> à classer en 3
   - Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ? **Non, pas de moyens (financier, organisationnel, ...)**
   - En cas de problème qui menacerait votre activité ou vos revenus agricoles, pensez-vous que vous pourriez défendre vos intérêts ? **Oui**
 
-- 288 exploitations : 
+- 288 exploitations   -> à classer en 1
   - Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ? **Oui, mais pas d'incitation à le faire**
   - En cas de problème qui menacerait votre activité ou vos revenus agricoles, pensez-vous que vous pourriez défendre vos intérêts ? **Non**
   
-- 150 exploitations : 
+- 150 exploitations  -> à classer en 1
   - Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ? **Oui**
   - En cas de problème qui menacerait votre activité ou vos revenus agricoles, pensez-vous que vous pourriez défendre vos intérêts ? **Non**
   
-- 123 exploitations : 
+- 123 exploitations  -> à classer en 1
   - Formations continues déjà suivies depuis la fin des études
   - En cas de problème qui menacerait votre activité ou vos revenus agricoles, pensez-vous que vous pourriez défendre vos intérêts ? **Non**
     
-- 26 exploitations : 
+- 26 exploitations  -> à classer en 1
   - Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ? **Oui, en m'associant avec d'autres producteurs**
   - En cas de problème qui menacerait votre activité ou vos revenus agricoles, pensez-vous que vous pourriez défendre vos intérêts ? **Non**
 

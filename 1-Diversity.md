@@ -36,17 +36,18 @@ La seconde liste de critères est appliquée aux exploitations qui n'ont pas pu 
 
 ## 1.4 DIVERSITÉ DES ACTIVITÉS, PRODUITS ET SERVICES
 
-| Catégorie                                                      | Critères                                                                                                               |
-|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 0 - Une seule activité productive (par ex. vente d’une seule culture). | Vente d'un seul produit végétal (cultures classiques) ou miel ou oeufs ou viande                                    |
-| 1 - Deux ou trois activités productives (par exemple, vendre 2 cultures ou une culture et un type d’animal).             | Vente de 2 ou 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande  OU vente de 1 type de produits (potentiellement plusieurs cultures) dans les jardins océaniens |
-| 2 - Plus de 3 activités productives.                         | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 0 service OU vente de plus d'un type de produits dans les jardins océaniens  et 0 service |
-| 3 - Plus de 3 activités productives et un service (par ex. transformation de produits à la ferme, écotourisme, transport de produits agricoles, formation, etc.). | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 1 service OU vente de plus d'un type de produits dans les jardins océaniens  et 1 service |
-| 4 - Plus de 3 activités productives et plusieurs services.    | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 2 services ou plus OU vente de plus d'un type de produits dans les jardins océaniens  et  2 services ou plus |
+| Catégorie                                                      | Critères 1                                                                                                             | Critères 2                                                                 |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 0 - Une seule activité productive (par ex. vente d’une seule culture). | Vente d'un seul produit végétal (cultures classiques) ou miel ou oeufs ou viande                                    | Pas de vente de produit mais production d'un type de cultures végétales ou d'espèces animales.                                         |
+| 1 - Deux ou trois activités productives (par exemple, vendre 2 cultures ou une culture et un type d’animal).             | Vente de 2 ou 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande  OU vente de 1 type de produits (potentiellement plusieurs cultures) dans les jardins océaniens | Pas de vente de produit mais production de 2 ou 3 types de cultures végétales ou d'espèces animales.                                    |
+| 2 - Plus de 3 activités productives.                         | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 0 service OU vente de plus d'un type de produits dans les jardins océaniens  et 0 service | Pas de vente de produit mais production de plus de 3 types de cultures végétales ou d'espèces animales.                                |
+| 3 - Plus de 3 activités productives et un service (par ex. transformation de produits à la ferme, écotourisme, transport de produits agricoles, formation, etc.). | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 1 service OU vente de plus d'un type de produits dans les jardins océaniens  et 1 service |                                                                           |
+| 4 - Plus de 3 activités productives et plusieurs services.    | Vente de plus de 3 produits parmi les différentes cultures végétales classiques ou miel ou oeufs ou viande et 2 services ou plus OU vente de plus d'un type de produits dans les jardins océaniens  et  2 services ou plus |                                                                           |
+|                                                               |                                                                                                                       |                                                                           |
 
 ### Classement des exploitations 
 
-- score 9 => exploitations qui ne vendent aucun produit
+- score 99 => exploitations qui ne produisent aucun produit
 
 ### Remarques 1.4 :
 

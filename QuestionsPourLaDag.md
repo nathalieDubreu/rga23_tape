@@ -42,7 +42,7 @@ _Prenez en compte tous les intrants nécessaires à la production, y compris l�
   - 3 - La majorité des intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres de la communauté..
   - 4 - Tous les intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres de la communauté.
 
-### Coté RGA, on considère :
+### Coté RGA :
   - Autonomie alimentaire pour les animaux
   - Part d'auto-production pour les semences et les plants
   - Production d'énergie renouvelable

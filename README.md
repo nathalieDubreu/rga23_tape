@@ -66,6 +66,19 @@
 | 3     |   33|
 | 4     |   53|
 
+- [Cocreation](7-Cocreation.md)
+    - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (1727 exploitations encore à classer)
+
+| score | Cocreation_1_Plateformes | Cocreation_2_AccesConnaissances | Cocreation_3_Participation |
+|-------|---------------------------|----------------------------------|----------------------------|
+| 0     | 175                       | 162                              | 1927                       |
+| 1     | 409                       | 217                              | 306                        |
+| 2     | 501                       | 100                              | 257                        |
+| 3     | NA                        | 2083                             | 165                        |
+| 4     | NA                        | 64                               | 127                        |
+| 5     | 1727                      | 186                              | 30                         |
+
+
 ## WIP
 - [Questions en attente de retours](QuestionsPourLaDag.md)
 

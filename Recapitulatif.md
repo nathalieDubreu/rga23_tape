@@ -1,21 +1,21 @@
 | Catégories et sous catégories                                |     Etat d'avancement     |        Validation          |
 |-------------------------------------------------------------|:-------------------------:|:--------------------------:|
-| **1. Diversité**                                           |                           |                            |
+| **1. Diversité**                                           |            -               |             -               |
 |    1.1 Cultures                                            |            ✔️             |                            |
 |    1.2 Animaux (y compris les poissons et les insectes)    |            ✔️             |                            |
 |    1.3 Arbres (et autres vivaces)                          |            ✔️             |                            |
 |    1.4 Diversité des activités, produits et services       |            ✔️             |                            |
-| **2. Synergies**                                           |                           |                            |
+| **2. Synergies**                                           |            -               |             -                |
 |    2.1 Intégration cultures-élevage-aquaculture            |              ⏳             |                            |
 |    2.2 Gestion du système sol-plantes                      |              ✔️             |                            |
 |    2.3 Integration avec les arbres (agroforesterie, silvopastoralisme, agrosilvopastoralisme) |                     |                            |
 |    2.4 Connectivité entre les éléments de l’agroécosystème et le paysage |                |                            |
-| **3. Efficience**                                          |                           |                            |
+| **3. Efficience**                                          |                -               |             -                 |
 |    3.1 Utilisation d’intrants extérieurs                   |           ⏳                |                            |
 |    3.2 Gestion de la fertilité du sol                      |            ✔️               |                            |
 |    3.3 Gestion des pestes et des maladies                  |             ✔️              |                            |
 |    3.4 Productivité et besoins du ménage                   |              ✔️             |                            |
-| **4. Recyclage**                                            |                           |                            |
+| **4. Recyclage**                                            |                 -               |             -                    |
 |    4.1 Recyclage de la biomasse et des nutriments          |                           |                            |
 |    4.2 Préservation et conservation de l’eau                |                           |                            |
 |    4.3 Gestion des graines et des races animales           |                           |                            |

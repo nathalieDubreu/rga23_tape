@@ -5,7 +5,7 @@
 - [Dictionnaire des variables et modalités du RGA](https://docs.google.com/spreadsheets/d/16DxQiRkNIRXOBTypMM7NZsaku60rkBLX/edit?usp=sharing&ouid=111896801001167457308&rtpof=true&sd=true)
 
 ## **Champ** : 
-- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus)
+- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus - cf. document PDF)
 - Hors points liés aux 2,7 tonnes de coprah
 - => 2812 unités
 
@@ -22,14 +22,13 @@
     - 4 sous catégories : DONE
   
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
-|-------|----------------------|----------------------|---------------------|-----------------------|
-| 0     | 574                  | 1948                 | 260                 | 601                   |
-| 1     | 222                  | 634                  | 410                 | 516                   |
-| 2     | 292                  | 177                  | 50                  | 940                   |
-| 3     | 1443                 | 53                   | 156                 | 329                   |
-| 4     | 281                  | -                    | 1936                | 236                   |
-| 99    | -                    | -                    | -                   | 190                   |
-
+|-------|----------------------|----------------------|---------------------|----------------------|
+| 0     | 574                  | 1948                 | 260                 | 674                  |
+| 1     | 222                  | 634                  | 410                 | 580                  |
+| 2     | 292                  | 177                  | 50                  | 957                  |
+| 3     | 1443                 | 53                   | 156                 | 329                  |
+| 4     | 281                  | -                    | 1936                | 236                  |
+| 55    | -                    | -                    | -                   | 36                   |
 
 - [Synergies](2-Synergies.md)
     - Sous catégories 2.2 : DONE

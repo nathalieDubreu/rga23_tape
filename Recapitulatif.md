@@ -41,6 +41,6 @@
 |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |                  |                            |
 |    9.3 Système alimentaire local                           |                           |                            |
 | **10. Gouvernance responsable**                             |         ---                  |         ---                   |
-|    10.1 Émancipation des producteurs                        |          ⏳               |                            |
+|    10.1 Émancipation des producteurs                        |          ✔️               |                            |
 |    10.2 Organizations et associations de producteurs       |          ❌              |                            |
 |    10.3 Participation des producteurs dans la gouvernance de la terre et des ressources naturelles |           ❌             |                            |

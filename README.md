@@ -55,7 +55,6 @@
 | 4     | 5                      | 592                   | 2378                     | 487                              |
 | 55    | 1038                   | -                     | -                        | -                                |
 
-   
 - [Recyclage](4-Recyclage.md)
     - Sous catégorie 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
@@ -78,6 +77,17 @@
 | 3     | -                         | 2083                             | 165                         |
 | 4     | -                         | 64                               | 127                         |
 | 55    | 1727                      | 186                              | 30                          |
+
+- [Gouvernance](10-Gouvernance.md)
+
+| score | Gouvernance_1_Emancipation |
+|-------|----------------------------|
+| 0     | 351                        |
+| 1     | 847                        |
+| 2     | 440                        |
+| 3     | 976                        |
+| 4     | 468                        |
+| 55    | 12                         |
 
 
 ## WIP

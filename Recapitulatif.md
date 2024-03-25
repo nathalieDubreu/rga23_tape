@@ -1,4 +1,4 @@
-| Catégorie | Catégories et sous catégories                                |     Etat d'avancement     |        Accord FAO          |
+| Catégorie | Sous catégorie                               |     Etat d'avancement     |        Accord FAO          |
 |-----------|-------------------------------------------------------------|:-------------------------:|:--------------------------:|
 |   **1. Diversité**         |            ---                         |            ---               |             ---               |
 |           |    1.1 Cultures                                            |            ✔️             |                            |

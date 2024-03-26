@@ -15,36 +15,36 @@
 - La part d'auto-production des semences est majorée à 5 s'il n'y a que des semences auto-produites et/ou données par d'autres agriculteurs
 
 #### B - Degré d'autonomie alimentaire des animaux
-- Aliments pris en compte : 
-      - AutAlimAnimauxBasseCour : aliments des animaux de basse cour
-      - AutAlimBovinsFourrage : fourrage des bovins
-      - AutAlimCaprinsFourrage : fourrage des caprins
-      - AutAlimEquidesFourrages : fourrage des équidés
-      - AutAlimOvinsFourrage : fourrage des ovins
-      - AutAlimPorcins : aliments des porcins
-      - AutAlimPoules : aliments des poules pondeuses
+- Aliments pris en compte :
+    - AutAlimAnimauxBasseCour : aliments des animaux de basse cour
+    - AutAlimBovinsFourrage : fourrage des bovins
+    - AutAlimCaprinsFourrage : fourrage des caprins
+    - AutAlimEquidesFourrages : fourrage des équidés
+    - AutAlimOvinsFourrage : fourrage des ovins
+    - AutAlimPorcins : aliments des porcins
+    - AutAlimPoules : aliments des poules pondeuses
 - Modalités de réponses possibles
-           - Plus de 90%.......................................1
-           - 75% à moins de 90%................................2
-           - 50% à moins de 75%................................3
-           - 25% à moins de 50%................................4
-           - Moins de 25%......................................5
-           - Aucune autonomie (tout est acheté)................6
-           - Sans objet, ce type d'aliment n'est pas utilisé...7
+    - Plus de 90%.......................................1
+    - 75% à moins de 90%................................2
+    - 50% à moins de 75%................................3
+    - 25% à moins de 50%................................4
+    - Moins de 25%......................................5
+    - Aucune autonomie (tout est acheté)................6
+    - Sans objet, ce type d'aliment n'est pas utilisé...7
 - Recalcul de 5 niveaux d'autonomie noté de 1 à 5 :
-           - Au moins 75 % -> 5,
-           - De 50 à 75% (voire 90%) -> 4,
-           - De 25 à 50% (voire 75%) -> 3,
-           - De 1 à 25% (voire 50%) -> 2,
-           - De 0 % (voire une partie jusqu'à 25%) -> 1
+    - Au moins 75 % -> 5
+    - De 50 à 75% (voire 90%) -> 4,
+    - De 25 à 50% (voire 75%) -> 3,
+    - De 1 à 25% (voire 50%) -> 2,
+    - De 0 % (voire une partie jusqu'à 25%) -> 1
   
 #### C - Niveau d’autonomie assuré à partir des énergies renouvelables produits sur l'exploitaiton
 - Modalités 
-      - Pas de production d'énergie renouvelable -> 1
-      - 25% -> 2
-      - 50% -> 3
-      - 75% -> 4
-      - 100% -> 5 
+    - Pas de production d'énergie renouvelable -> 1
+    - 25% -> 2
+    - 50% -> 3
+    - 75% -> 4
+    - 100% -> 5 
 
 | Sous catégorie | Description                                                                                       | Filtre                                                |
 |----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------|

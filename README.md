@@ -44,7 +44,7 @@
 | 99    | ---                     | 171                    |
 
 - [Efficience](3-Efficience.md)
-    - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (plus de 1000 exploitations encore à classer)
+    - 4 sous catégories : DONE
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|----------------------|--------------------------|----------------------------------|

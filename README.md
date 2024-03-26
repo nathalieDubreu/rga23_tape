@@ -7,7 +7,7 @@
 ## **Champ** : 
 - Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus - cf. document PDF)
 - Hors points liés aux 2,7 tonnes de coprah
-- => 2812 unités
+- => 3094 unités
 
 ## Rappel des limites du RGA dans le cadre de l'analyse TAPE
 - Seuls les chefs d'exploitations sont interrogés (pas les travailleurs) 
@@ -23,62 +23,65 @@
   
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
 |-------|----------------------|----------------------|---------------------|----------------------|
-| 0     | 574                  | 1948                 | 260                 | 674                  |
-| 1     | 222                  | 634                  | 410                 | 580                  |
-| 2     | 292                  | 177                  | 50                  | 957                  |
-| 3     | 1443                 | 53                   | 156                 | 329                  |
-| 4     | 281                  | -                    | 1936                | 236                  |
-| 55    | -                    | -                    | -                   | 36                   |
+| 0     | 774                  | 2223                 | 411                 | 879                  |
+| 1     | 231                  | 641                  | 486                 | 620                  |
+| 2     | 321                  | 177                  | 51                  | 978                  |
+| 3     | 1476                 | 53                   | 162                 | 336                  |
+| 4     | 292                  | ---                  | 1984                | 238                  |
+| 55    | ---                  | ---                  | ---                 | 43                   |
 
 - [Synergies](2-Synergies.md)
     - Sous catégories 2.2 : DONE
       
 | score | Synergies_1_Integration | Synergies_2_SolPlantes |
-|-------|--------------------------|------------------------|
-| 0     | 2196                     | 305                    |
-| 1     | 181                      | 1549                   |
-| 2     | 57                       | 676                    |
-| 3     | 51                       | 104                    |
-| 4     | 75                       | 7                      |
-| 55    | 252                      | -                      |
-| 99    | -                        | 171                    |
+|-------|-------------------------|------------------------|
+| 0     | 2475                    | 366                    |
+| 1     | 182                     | 1736                   |
+| 2     | 57                      | 706                    |
+| 3     | 51                      | 108                    |
+| 4     | 76                      | 7                      |
+| 55    | 253                     | ---                    |
+| 99    | ---                     | 171                    |
 
 - [Efficience](3-Efficience.md)
     - Manque la sous catégorie 3.1 UTILISATION D’INTRANTS EXTERIEURS (plus de 1000 exploitations encore à classer)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
-|-------|------------------------|-----------------------|--------------------------|----------------------------------|
-| 0     | 627                    | 2052                  | 153                      | 775                              |
-| 1     | 1047                   | 148                   | 193                      | 55                               |
-| 2     | 59                     | 12                    | 59                       | 574                              |
-| 3     | 36                     | 8                     | 29                       | 921                              |
-| 4     | 5                      | 592                   | 2378                     | 487                              |
-| 55    | 1038                   | -                     | -                        | -                                |
+|-------|------------------------|----------------------|--------------------------|----------------------------------|
+| 0     | 700                    | 2256                 | 166                      | 906                              |
+| 1     | 1216                   | 158                  | 199                      | 59                               |
+| 2     | 59                     | 14                   | 63                       | 637                              |
+| 3     | 37                     | 9                    | 44                       | 985                              |
+| 4     | 5                      | 657                  | 2622                     | 507                              |
+| 55    | 1077                   | ---                  | ---                      | ---                              |
+
 
 - [Recyclage](4-Recyclage.md)
     - Sous catégorie 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | score | Recyclage_4_Energie    |
 |-------|-----|
-| 0     | 2681|
-| 1     |   25|
-| 2     |   22|
-| 3     |   33|
-| 4     |   53|
+| 0     | 2939|
+| 1     |   28|
+| 2     |   25|
+| 3     |   44|
+| 4     |   58|
 
 - [Cocreation](7-Cocreation.md)
     - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (plus de 1700 exploitations encore à classer)
 
 | score | Cocreation_1_Plateformes | Cocreation_2_AccesConnaissances | Cocreation_3_Participation |
-|-------|---------------------------|----------------------------------|-----------------------------|
-| 0     | 175                       | 162                              | 1927                        |
-| 1     | 409                       | 217                              | 306                         |
-| 2     | 501                       | 100                              | 257                         |
-| 3     | -                         | 2083                             | 165                         |
-| 4     | -                         | 64                               | 127                         |
-| 55    | 1727                      | 186                              | 30                          |
+|-------|--------------------------|---------------------------------|----------------------------|
+| 0     | 180                      | 170                             | 2132                       |
+| 1     | 465                      | 227                             | 330                        |
+| 2     | 534                      | 114                             | 281                        |
+| 3     | ---                      | 2319                            | 189                        |
+| 4     | ---                      | 66                              | 132                        |
+| 55    | 1915                     | 198                             | 30                         |
+
 
 - [Gouvernance](10-Gouvernance.md)
+    - DONE (1 seule sous-catégorie à traiter via les données du RGA)
 
 | score | Gouvernance_1_Emancipation |
 |-------|----------------------------|

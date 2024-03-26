@@ -1,5 +1,71 @@
 # EFFICIENCE - Critères d'affectations dans les sous catégories 
 
+## 3.1 UTILISATION D’INTRANTS EXTERIEURS
+
+### 3 types d'intrants présents dans le RGA sont pris en compte
+
+#### A - Niveau d'auto-production des plants et des semences
+      - Moyenne tronquée de niveau d'auto-production entre les 2 en cas de présence
+      - Modalités possibles :
+            - 0 à 10% du volume utilisé.......1
+            - 10 à 25% du volume utilisé......2
+            - 25 à 50% du volume utilisé......3
+            - 50 à 75% du volume utilisé......4
+            - Plus de 75% du volume utilisé...5
+      - La part d'auto-production des semences est majorée à 5 s'il n'y a que des semences auto-produites et/ou données par d'autres agriculteurs
+
+#### B - Degré d'autonomie alimentaire des animaux
+  - Aliments pris en compte : 
+      - AutAlimAnimauxBasseCour : aliments des animaux de basse cour
+      - AutAlimBovinsFourrage : fourrage des bovins
+      - AutAlimCaprinsFourrage : fourrage des caprins
+      - AutAlimEquidesFourrages : fourrage des équidés
+      - AutAlimOvinsFourrage : fourrage des ovins
+      - AutAlimPorcins : aliments des porcins
+      - AutAlimPoules : aliments des poules pondeuses
+  - Modalités de réponses possibles
+      - Plus de 90%.......................................1
+      - 75% à moins de 90%................................2
+      - 50% à moins de 75%................................3
+      - 25% à moins de 50%................................4
+      - Moins de 25%......................................5
+      - Aucune autonomie (tout est acheté)................6
+      - Sans objet, ce type d'aliment n'est pas utilisé...7
+  - Recalcul de 5 niveaux d'autonomie noté de 1 à 5 :
+      - Au moins 75 % -> 5,
+      - De 50 à 75% (voire 90%) -> 4,
+      - De 25 à 50% (voire 75%) -> 3,
+      - De 1 à 25% (voire 50%) -> 2,
+      - De 0 % (voire une partie jusqu'à 25%) -> 1
+  
+#### C - Niveau d’autonomie assuré à partir des énergies renouvelables produits sur l'exploitaiton
+    - Modalités 
+      - Pas de production d'énergie renouvelable -> 1
+      - 25% -> 2
+      - 50% -> 3
+      - 75% -> 4
+      - 100% -> 5 
+
+| Sous catégorie | Description                                                                                       | Filtre                                                |
+|----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 0              | Tous les intrants sont produits et achetés en dehors de l’agroécosystème.                       | Pas d'énergie renouvelable                           |
+| 1              | La majorité des intrants sont achetés en dehors de l’agroécosystème.                             | Pas d'énergie renouvelable ou ~ 25%                  |
+| 2              | Certains intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Energie renouvelable ~25% ou ~50%                    |
+| 3              | La majorité des intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres... | Energie renouvelable ~50% ou ~75%                    |
+| 4              | Tous les intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Energie renouvelable ~100%                           |
+
+### Restent 1075 exploitations à classer suite au passage de ces filtres
+
+| Energie renouvelable | Présence de plants et semences | Animaux dont on contrôle l'autonomie | Note tronquée à l'unité | Pénalité |
+|----------------------|---------------------------------|---------------------------------------|--------------------------|----------|
+| X                    | X                               | X                                     | 0.15 * noteEnergie + 0.25 * noteAutonomieAlimentaireAnimaux + 0.60 * noteAutoproduction |          |
+| non                  | X                               | X                                     | 0.35 * noteAutonomieAlimentaireAnimaux + 0.65 * noteAutoproduction | -1       |
+| X                    | X                               | non                                   | 0.35 * noteEnergie + 0.65 * noteAutoproduction |          |
+| X                    | non                             | X                                     | 0.35 * noteEnergie + 0.65 * noteAutonomieAlimentaireAnimaux |          |
+| non                  | non                             | X                                     | noteAutonomieAlimentaireAnimaux | -1       |
+| non                  | X                               | non                                   | noteAutoproduction | -1       |
+
+
 ## 3.2 GESTION DE LA FERTILITÉ DU SOL
 
 | Sous catégorie | Description | Filtre |

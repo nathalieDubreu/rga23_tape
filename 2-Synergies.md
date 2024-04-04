@@ -27,13 +27,13 @@
     - Plus de 75%...4
  
 - Poids UGB Pris en compte :
-    Bovins = 900 
-    Ovins = 150 
-    Poules pondeuses = 3 
-    AnimauxBasseCour = 3 
-    Caprins = 150 
-    Equides = 800 
-    Porcins = 150 
+    - Bovins = 900 
+    - Ovins = 150 
+    - Poules pondeuses = 3 
+    - AnimauxBasseCour = 3 
+    - Caprins = 150 
+    - Equides = 800 
+    - Porcins = 150 
 
 
 | Détail des niveaux                                                                                             | Critères 1 - En prenant en compte toutes les espèces présentes (hors abeilles) | Critères 2 - Si plusieurs espèces de ruminants (caprins, bovins, équidés, ovins) et pas d'autres espèces - hors abeilles -> classement en fonction de l'utilisation des déjections animales (entre 1 et 4)                                   |

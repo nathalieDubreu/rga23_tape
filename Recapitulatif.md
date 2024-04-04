@@ -32,7 +32,7 @@
 |           |    7.2 Accès aux connaissances agroécologiques et intérêt des producteurs à l’agroécologie |    ✔️           |             ✔️               |
 |           |    7.3 Participation des producteurs aux réseaux et aux organisations de base |         ✔️            |                ✔️            |
 |   **8. Valeurs humaines & sociales**        |       ---                  |            ---               |          ---                  |
-|            |    8.1 Émancipation des femmes                             |            ❌               |                            |
+|            |    8.1 Émancipation des femmes                             |            ❌               |             -               |
 |           |    8.2 Travail (conditions de production, inégalités sociales) |                           |                            |
 |           |    8.3 Émancipation de la jeunesse et émigration            |                           |                            |
 |           |    8.4 Bien-être animal [si applicable]                    |                           |                            |

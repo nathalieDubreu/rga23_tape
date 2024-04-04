@@ -68,10 +68,12 @@
 
 ## 3.2 GESTION DE LA FERTILITÉ DU SOL
 
-Utilisation de plantes de services.............1
-Intercultures..................................2
-Amendements calciques..........................6
-Utilisation de micro-organismes du sol.........7
+- Utilisation de plantes de services.............1
+- Intercultures..................................2
+- Amendements calciques..........................6
+- Utilisation de micro-organismes du sol.........7
+- OU jardins océaniens
+- Ou agroforesterie
 
 | Sous catégorie | Description | Filtre |
 |--------|-------------|--------|

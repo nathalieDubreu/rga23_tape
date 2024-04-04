@@ -17,6 +17,8 @@
 
 # 7.3 PARTICIPATION DES PRODUCTEURS AUX RÉSEAUX ET AUX ORGANISATIONS DE BASE
 
+- Plateformes : "Y-a-t-il des évenements/animations/rencontres de la communauté locale agricole sur votre île (marché, réunion, ...) ?"
+
 | Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                       |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0    | Les producteurs sont isolés, n’ont pratiquement aucune relation avec leur communauté locale et ne participent pas aux réunions et aux organisations locales.                                                                                                                                                                | Existence de plateformes + il y participe jamais OU pas de plateforme sur l'île et il se sent isolé      |

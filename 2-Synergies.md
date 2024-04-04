@@ -55,6 +55,11 @@
 
 ## 2.2 GESTION DU SYSTÈME SOL-PLANTES
 
+- Pratiques culturales
+    - Utilisation de plantes de services.............1
+    - Intercultures..................................2
+    - Paillage (plastique ou naturel)................5
+
 | Niveau | Sous catégories                                                                                                                                                                 | Critères                                                                                                                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 0      | Le sol est nu après la récolte. Pas de culture intercalaire. Aucune rotation des cultures (ou systèmes de pâturage en rotation). Perturbation importante du sol (biologique, chimique ou mécanique). | Monoculture (Hors cas où la seule culture est "Divers Fruitiers") - pas de jardin océanien                                           |

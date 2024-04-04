@@ -13,7 +13,7 @@
 | 1    | Les principes de l’agroécologie sont pour la plupart inconnus aux producteurs et/ou il y a peu de confiance en eux.                                                                                                                  | Que chimique mais connaît les pratiques         |
 | 2    | Certains principes agroécologiques sont connus aux producteurs et il existe un intérêt à diffuser l’innovation, à faciliter le partage des connaissances au sein des communautés et à impliquer les jeunes générations.                | Mixte chimique et bio                           |
 | 3    | L’agroécologie est bien connue et les producteurs sont prêts à mettre en œuvre ses innovations, à faciliter le partage des connaissances au sein des communautés et à impliquer les jeunes générations, y compris les femmes. | Pas de chimique (produits bio ou rien)         |
-| 4    | Accès généralisé aux connaissances agroécologiques des hommes et des femmes: les producteurs sont bien conscients des principes de l’agroécologie et désireux de les appliquer, en facilitant le partage des connaissances au sein des communautés et en impliquant les jeunes générations. | Bio_DAG                                         |
+| 4    | Accès généralisé aux connaissances agroécologiques des hommes et des femmes: les producteurs sont bien conscients des principes de l’agroécologie et désireux de les appliquer, en facilitant le partage des connaissances au sein des communautés et en impliquant les jeunes générations. | Bio (validation DAG)                                      |
 
 # 7.3 PARTICIPATION DES PRODUCTEURS AUX RÉSEAUX ET AUX ORGANISATIONS DE BASE
 

@@ -68,6 +68,11 @@
 
 ## 3.2 GESTION DE LA FERTILITÉ DU SOL
 
+Utilisation de plantes de services.............1
+Intercultures..................................2
+Amendements calciques..........................6
+Utilisation de micro-organismes du sol.........7
+
 | Sous catégorie | Description | Filtre |
 |--------|-------------|--------|
 |   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse |

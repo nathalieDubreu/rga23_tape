@@ -48,11 +48,11 @@
 
 | Sous catégorie | Description                                                                                       | Filtre                                                |
 |----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 0              | Tous les intrants sont produits et achetés en dehors de l’agroécosystème.                       | Pas d'énergie renouvelable                           |
-| 1              | La majorité des intrants sont achetés en dehors de l’agroécosystème.                             | Pas d'énergie renouvelable ou ~ 25%                  |
-| 2              | Certains intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Energie renouvelable ~25% ou ~50%                    |
-| 3              | La majorité des intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres... | Energie renouvelable ~50% ou ~75%                    |
-| 4              | Tous les intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Energie renouvelable ~100%                           |
+| 0              | Tous les intrants sont produits et achetés en dehors de l’agroécosystème.                       | Si animaux : aliments achetés exclusivement / Si semences : pas d'auto-production / Si plants : pas d'auto-production / Pas d'énergie renouvelable                           |
+| 1              | La majorité des intrants sont achetés en dehors de l’agroécosystème.                             | Si animaux : autonomie alimentaire < 25% / Moyenne d'auto-production des plants et semences : moins de 25% / Pas d'énergie renouvelable ou ~ 25%               |
+| 2              | Certains intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Si animaux : autonomie alimentaire entre 25% et 50% / Moyenne d'auto-production des plants et semences entre 25 et 50% / Energie renouvelable ~25% ou ~50%                   |
+| 3              | La majorité des intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres... | Si animaux : autonomie alimentaire entre 50% et 90% / Moyenne d'auto-production des plants et semences entre 50 et 75% / Energie renouvelable ~50% ou ~75%                    |
+| 4              | Tous les intrants sont produits au sein de l’agroécosystème ou échangés avec d’autres membres... | Si animaux : aliments présents sur l'exploitaiton uniquement / Moyenne d'auto-production des plants et semences > 75% / Energie renouvelable ~100%                           |
 
 ### Calcul d'une note pour classer les 1075 exploitations restantes suite au passage des premiers filtres
 

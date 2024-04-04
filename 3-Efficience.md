@@ -56,7 +56,7 @@
 
 ### Calcul d'une note pour classer les 1075 exploitations restantes suite au passage des premiers filtres
 
-| Energie renouvelable | Présence de plants et semences | Animaux dont on contrôle l'autonomie | Note tronquée à l'unité | Pénalité |
+| Energie renouvelable | Présence de plants et semences | Animaux dont on contrôle l'autonomie | Note tronquée à l'unité | Pénalité TODO si présence matériel spécifié |
 |:---------------------:|:-------------------------------:|:-------------------------------------:|------------------------|:--------:|
 |          X            |                X                |                   X                   | 0.15 * noteEnergie + 0.25 * noteAutonomieAlimentaireAnimaux + 0.60 * noteAutoproduction |          |
 |         non           |                X                |                   X                   | 0.35 * noteAutonomieAlimentaireAnimaux + 0.65 * noteAutoproduction |    -1    |

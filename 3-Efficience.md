@@ -68,6 +68,7 @@
 
 ## 3.2 GESTION DE LA FERTILITÉ DU SOL
 
+Pratiques prises en compte pour discriminer entre les catégories 0 et 1 : 
 - Utilisation de plantes de services.............1
 - Intercultures..................................2
 - Amendements calciques..........................6
@@ -77,8 +78,8 @@
 
 | Sous catégorie | Description | Filtre |
 |--------|-------------|--------|
-|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse |
-|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | Engrais de synthèse + SOIT engrais minéraux bio SOIT engrais organiques |
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET aucune des pratiques considérées |
+|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | (Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET au moins une des pratiques considérées) OU (Engrais de synthèse + SOIT engrais minéraux bio SOIT engrais organiques) |
 |   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Engrais de synthèse + engrais minéraux bio + engrais organiques |
 |   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Engrais de synthèse + engrais minéraux bio + engrais organiques avec engrais organiques présents utilisés à plus de 75% |
 |   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | Aucun engrais de synthèse mais minéraux et/ou organiques |

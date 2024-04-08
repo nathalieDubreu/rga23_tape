@@ -24,7 +24,7 @@
 |           |    5.1 Stabilité de la production et capacité à résister aux perturbations |                |                            |
 |           |    5.2 Mécanismes de réduction de la vulnérabilité         |                           |                            |
 |  **6. Culture & traditions alimentaires**         |         ---           |         ---                  |          ---                  |
-|           |    6.1 Régime alimentaire approprié et conscience nutritionnelle |         ⏳ (à reprendre)              |                           |
+|           |    6.1 Régime alimentaire approprié et conscience nutritionnelle |         ✔️              |                           |
 |           |    6.2 Identité et conscience locales ou traditionnelles (paysannes/indigènes) |    ❌       |              -              |
 |           |    6.3 Utilisation de variétés/races locales et connaissances traditionnelles (paysannes/indigènes) pour la préparation des aliments |          ❌             |           -                 |
 |  **7. Co-création & partage de connaissances**         |     ---         |        ---                   |         ---                   |

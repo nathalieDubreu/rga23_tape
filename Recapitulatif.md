@@ -12,7 +12,7 @@
 |           |    2.4 Connectivité entre les éléments de l’agroécosystème et le paysage |                |                            |
 |   **3. Efficience**          |          ---                               |                ---               |             ---                 |
 |           |    3.1 Utilisation d’intrants extérieurs                   |           ⏳ (reprendre pénalités)              |                            |
-|           |    3.2 Gestion de la fertilité du sol                      |            ⏳ (intégrer pratiques pour discriminer entre 0 et 1 et entre 3 et 4)               |                            |
+|           |    3.2 Gestion de la fertilité du sol                      |            ✔️              |                            |
 |           |    3.3 Gestion des pestes et des maladies                  |             ⏳ (attendre retours Laurent)             |                            |
 |           |    3.4 Productivité et besoins du ménage                   |              ✔️             |              ✔️              |
 |  **4. Recyclage**          |       ---                                     |                 ---               |             ---                    |

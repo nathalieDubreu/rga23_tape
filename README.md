@@ -66,6 +66,17 @@
 | 3     |   44|
 | 4     |   58|
 
+- [Culture et traditions alimentaires](6-CultureTraditions.md)
+    - Sous catégorie score_1_regimeAlimentaire
+
+| score | CultureTraditions_1_regimeAlimentaire   |
+|-------|-----|
+| 0     | 41  |
+| 1     | 219 |
+| 2     | 1112|
+| 3     | 1395|
+| 4     | 327 |
+
 - [Cocreation](7-Cocreation.md)
     - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (plus de 1700 exploitations encore à classer)
 

@@ -67,3 +67,28 @@
 | 2      | 50 pour cent du sol est recouvert de résidus ou de cultures de couverture. Certaines cultures sont tournées ou intercalées (ou un pâturage en rotation est effectué).         | Une seule des 3 pratiques + plusieurs cultures basses (ou jardin océanien)                                                         |
 | 3      | Plus de 80 pour cent du sol est recouvert de résidus ou de cultures de couverture. Les cultures sont alternées régulièrement ou intercalées (ou le pâturage en rotation est systématique). La perturbation du sol est minimisée. | Au moins 2 des 3 pratiques + plusieurs cultures basses (ou jardin océanien)                                                        |
 | 4      | Tout le sol est couvert de résidus ou de cultures de couverture. Les cultures sont tournées régulièrement et les cultures intercalaires sont courantes (ou le pâturage en rotation est systématique). Peu ou pas de perturbation du sol. | Les 3 pratiques + plusieurs cultures basses (ou jardin océanien) . Pas de labour                                                    |
+
+## 2.3 INTEGRATION AVEC LES ARBRES (AGROFORESTERIE, SILVOPASTORALISME, AGROSILVOPASTORALISME)
+
+- Hors cultures de rente, des arbres ou des haies sont-ils présents sur votre exploitation ?
+    - Oui, en bord de parcelle...1
+    - Oui, dans la parcelle......2
+    - Non........................3
+
+- Pour quelle(s) raison(s) conservez-vous des arbres hors rente ?
+    - Biodiversité................................1
+    - Biomasse (bois-énergie, bois d’oeuvre, …)...2
+    - Ombrage.....................................3
+    - Alimentation animale........................4
+    - Fertilisation...............................5
+    - Sans raison particulière....................6
+ 
+- La production fruitière est considérée comme un service supplémentaire
+
+| Niveau | Sous catégories                                                                                                                                                                 | Critères                                                                                                                           |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 0     | Pas d’intégration: les arbres (et autres plantes vivaces) n’ont pas de rôle pour l’homme ou dans la production végétale ou animale.                                                                                                                                                                                                                                                                                                            | Pas d'arbres (ni cultivés , ni hors rentes)  |
+| 1     | Faible intégration: un petit nombre d’arbres (et autres plantes vivaces) ne fournissent qu’un seul produit (par exemple fruits, bois, fourrage, substances médicinales ou biopesticides…) ou qu’un seul service pour les cultures et/ou les animaux (par exemple de l’ombre pour les animaux, une fertilité accrue du sol, une rétention d’eau, une barrière à l’érosion du sol.                                                                                              | Uniquement des arbres hors rente et en bord de parcelle pour de la biomasse ou sans raison  |
+| 2     | Intégration moyenne: un nombre important d’arbres (et d’autres plantes vivaces) fournissent au moins un produit ou un service.                                                                                                                                                                                                                                                                                                                   |  Cultures d'arbre OU arbres hors rente présents dans la parcelle et/ou en bord de parcelle mais avec un service hors biomasse |
+| 3     | Intégration élevée: un nombre important d’arbres (et autres plantes vivaces) fournissent plusieurs produits et services.                                                                                                                                                                                                                                                                                                                        | Cultures d'arbre + arbres hors rente avec 1 ou 2 services  |
+| 4     | Intégration complète: de nombreux arbres (et autres vivaces) fournissent plusieurs produits et services.                                                                                                                                                                                                                                                                                                                                        | Cultures d'arbre + arbres hors rente avec au moins 3 services   |

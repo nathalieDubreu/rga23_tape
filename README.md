@@ -29,7 +29,7 @@
 | 4     | 292                  | ---                  | 1984                | 238                  |
 | 55    | ---                  | ---                  | ---                 | 43                   |
 
-![image](Graphiques/scoresDiversite.pdf)
+![image](Graphiques/scoresDiversite.png)
 
 - [Synergies](2-Synergies.md)
       

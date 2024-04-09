@@ -5,6 +5,15 @@
 
 ## 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES
 
+| Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                        |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 0     | Aucune plateforme de co-création et partage de connaissances n’est disponible pour les producteurs.                                                                               |  ISOLE |
+| 1     | Au moins une plateforme de co-création et partage de connaissances existe mais ne fonctionne pas bien et/ou n’est pas utilisée dans la pratique.                               | ISOLE mais pourrait ne pas l'être car habitant à Tahiti, Moorea, Raiatea, Nuku Hiva, Tubuai (donc présence sûre de plateforme)  |
+| 2     | Au moins une plateforme de co-création et partage de connaissances existe et fonctionne mais n’est pas utilisée pour partager spécifiquement les connaissances sur l’agroécologie. | Adhérent d’une structure agricole (association, coopérative) OU Engagé dans des instances décisionnaires OU facebook  |
+| 3     | Une ou plusieurs plateformes de co-création et partage de connaissances existent, fonctionnent et sont utilisées pour partager les connaissances sur l’agroécologie, comprenant les femmes. | Visité par des techniciens agricoles pour du conseil  |
+| 4     | Plusieurs plates-formes bien établies et fonctionnelles pour la co-création et le partage de connaissances sont disponibles et répandues au sein de la communauté, comprenant les femmes. |  Bio validé par la DAG |
+
+
 ## 7.2 ACCÈS AUX CONNAISSANCES AGROÉCOLOGIQUES ET INTÉRÊT DES PRODUCTEURS À L’AGROÈCOLOGIE
 
 | Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                        |

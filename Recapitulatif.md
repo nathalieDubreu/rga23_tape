@@ -9,7 +9,7 @@
 |           |    2.1 Intégration cultures-élevage-aquaculture            |              ✔️             |            ✔️                |
 |           |    2.2 Gestion du système sol-plantes                      |              ✔️             |             ✔️               |
 |           |    2.3 Integration avec les arbres (agroforesterie, silvopastoralisme, agrosilvopastoralisme) |       ⏳              |                            |
-|           |    2.4 Connectivité entre les éléments de l’agroécosystème et le paysage |                |             ⏳               |
+|           |    2.4 Connectivité entre les éléments de l’agroécosystème et le paysage |      ⏳          |                            |
 |   **3. Efficience**          |          ---                        |                ---               |             ---                 |
 |           |    3.1 Utilisation d’intrants extérieurs                   |           ✔️              |                            |
 |           |    3.2 Gestion de la fertilité du sol                      |            ✔️              |                            |

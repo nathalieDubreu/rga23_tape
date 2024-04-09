@@ -10,13 +10,12 @@ La répartition dans cette sous-catégorie repose sur deux questions dans le RGA
     - Oui via la CAPL......................................................3
     - Non..................................................................4
 
-- MoyensCompetences : Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ?
+- MoyensCompetences : Si vous le souhaitiez, auriez-vous les moyens de développer vos compétences (formation, ...) et capacités productives ? **(Attention dans l'analyse, les enquêteurs ont fait part de difficultés de compréhension de cette question)**
     - Oui....................................................1
     - Oui, mais pas d'incitation à le faire..................2
     - Oui, en m'associant avec d'autres producteurs..........3
     - Non, peu de moyens (financier, organisationnel, ...)...4
     - Non, pas de moyens (financier, organisationnel, ...)...5
-
 
 | Niveau | Sous catégorie | Critères 1 | Critères 2 |
 |--------|-------------|----------|------------|

@@ -56,7 +56,7 @@
 
 ### Calcul d'une note pour classer les 1075 exploitations restantes suite au passage des premiers filtres
 
-| Energie renouvelable | Présence de plants et semences | Animaux dont on contrôle l'autonomie | Note tronquée à l'unité | Pénalité TODO si présence matériel spécifié |
+| Energie renouvelable | Présence de plants et semences | Animaux dont on contrôle l'autonomie | Note tronquée à l'unité | Pénalité en cas d'utilisation d'au moins l'un des matériels listés ci-dessous |
 |:---------------------:|:-------------------------------:|:-------------------------------------:|------------------------|:--------:|
 |          X            |                X                |                   X                   | 0.15 * noteEnergie + 0.25 * noteAutonomieAlimentaireAnimaux + 0.60 * noteAutoproduction |          |
 |         non           |                X                |                   X                   | 0.35 * noteAutonomieAlimentaireAnimaux + 0.65 * noteAutoproduction |    -1    |
@@ -65,6 +65,19 @@
 |         non           |               non               |                   X                   |       noteAutonomieAlimentaireAnimaux      |    -1    |
 |         non           |                X                |                 non                   |              noteAutoproduction             |    -1    |
 
+- Matériel utilisé conduisant à une pénalité en cas de non production d'énergie renouvelable (besoin avéré d'énergie)
+     - Bateau à usage agricole
+     - Bétaillère
+     - Bulldozer (case)
+     - Mini-pelle hydraulique (Pel-Job)
+     - Motoculteur
+     - Quad
+     - Tracteur de moins de 50 CV
+     - Tracteur de plus de 50 CV et moins de 90 CV
+     - Tracteur de plus de 90 CV
+     - Tractopelle (drague)
+     - Véhicule de livraison
+     - Installation de stockage au froid
 
 ## 3.2 GESTION DE LA FERTILITÉ DU SOL
 

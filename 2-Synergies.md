@@ -92,3 +92,22 @@
 | 2     | Intégration moyenne: un nombre important d’arbres (et d’autres plantes vivaces) fournissent au moins un produit ou un service.                                                                                                                                                                                                                                                                                                                   |  Cultures d'arbre OU arbres hors rente présents dans la parcelle et/ou en bord de parcelle mais avec un service hors biomasse |
 | 3     | Intégration élevée: un nombre important d’arbres (et autres plantes vivaces) fournissent plusieurs produits et services.                                                                                                                                                                                                                                                                                                                        | Cultures d'arbre + arbres hors rente avec 1 ou 2 services  |
 | 4     | Intégration complète: de nombreux arbres (et autres vivaces) fournissent plusieurs produits et services.                                                                                                                                                                                                                                                                                                                                        | Cultures d'arbre + arbres hors rente avec au moins 3 services   |
+
+
+## 2.4 CONNECTIVITÉ ENTRE LES ÉLÉMENTS DE L’AGROÉCOSYSTÈME ET LE PAYSAGE
+
+- Elements pris en compte
+    - Présence de zones humides : Y-a-t-il une zone humide (étang naturel, réserve d’eau, rivière, source…) dans votre exploitation ?
+    - Présence d'arbres et/ou haies : Hors cultures de rente, des arbres ou des haies sont-ils présents sur votre exploitation ?
+    - Surface de végétation naturelle
+    - Jachères
+    - Bio validé par la DAG
+    - Jardins océaniens
+
+| Niveau | Sous catégories                                                                                                                                                                 | Critères                                                                                                                           |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 0 | Pas de connectivité: grande uniformité à l’intérieur et à l’extérieur de l’agroécosystème, pas d’environnements semi-naturels, pas de zones de compensation écologique. | Pas de surface de végétation naturelle, ni zone humide, ni jachères, ni jardins océaniens, ni arbres hors rente |
+| 1 | Faible connectivité: quelques éléments isolés peuvent être trouvés dans l’agroécosystème, tels que des arbres, des arbustes, des clôtures naturelles, un étang ou une petite zone de compensation écologique. | arbres hors rente OU zone humide OU jachères OU surface de végétation naturelle (OU exclusif) - Pas bio validés par la DAG |
+| 2 | Connectivité moyenne: plusieurs éléments sont adjacents aux cultures et/ou pâturages ou à une grande zone de compensation écologique. | arbres hors rente + zone humide + jachères + bioDAG + surface Végétation naturelle -> 2 parmi les 5 |
+| 3 | Connectivité importante: plusieurs éléments peuvent être trouvés entre des parcelles de cultures et/ou des pâturages ou plusieurs zones de compensation écologique (arbres, arbustes, végétation naturelle, pâturages, haies, canaux, etc.). | arbres hors rente + zone humide + jachères + bioDAG + surface Végétation naturelle -> 3 parmi les 5 //// ou JO mais pas de zone humide |
+| 4 | Connectivité élevée: l’agroécosystème présente une mosaïque et un paysage diversifié, de nombreux éléments tels que des arbres, des arbustes, des clôtures ou des étangs peuvent être trouvés entre chaque parcelle de terrain ou pâturage, ou plusieurs zones de compensation écologique. | arbres hors rente + zone humide + jachères + bioDAG + surface Végétation naturelle  >= 4 parmi les 5 // ou JO + zone humide |

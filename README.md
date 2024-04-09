@@ -43,6 +43,8 @@
 | 55    | 253                     | ---                    | ---                           | ---                      |
 | 99    | ---                     | 171                    | ---                           | ---                      |
 
+![image](Graphiques/scoresSynergies.png)
+
 - [Efficience](3-Efficience.md)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
@@ -53,6 +55,8 @@
 | 3     | 167                    | 82                    | 36                       | 985                              |
 | 4     | 60                      | 657                  | 2510                     | 507                              |
 | 55    | 63                     | ---                  | ---                      | ---                              |
+
+![image](Graphiques/scoresEfficience.png)
 
 - [Recyclage](4-Recyclage.md)
 
@@ -83,6 +87,8 @@
 | 2     | 621                    | 113                             | 281                        |
 | 3     | 463                      | 2307                            | 189                        |
 | 4     | 79                      | 79                              | 132                        |
+
+![image](Graphiques/scoresCocreation.png)
 
 - [Gouvernance](10-Gouvernance.md)
 

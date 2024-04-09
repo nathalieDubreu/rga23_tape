@@ -19,8 +19,7 @@
     - Code 99 -> exploitations non concernées
 
 - [Diversité](1-Diversity.md)
-    - 4 sous catégories : DONE
-  
+    
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
 |-------|----------------------|----------------------|---------------------|----------------------|
 | 0     | 774                  | 2223                 | 411                 | 879                  |
@@ -31,7 +30,6 @@
 | 55    | ---                  | ---                  | ---                 | 43                   |
 
 - [Synergies](2-Synergies.md)
-    - Sous catégories 2.2 : DONE
       
 | score | Synergies_1_Integration | Synergies_2_SolPlantes |
 |-------|-------------------------|------------------------|
@@ -44,7 +42,6 @@
 | 99    | ---                     | 171                    |
 
 - [Efficience](3-Efficience.md)
-    - 4 sous catégories : DONE
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|----------------------|--------------------------|----------------------------------|
@@ -56,7 +53,6 @@
 | 55    | 63                     | ---                  | ---                      | ---                              |
 
 - [Recyclage](4-Recyclage.md)
-    - Sous catégorie 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | score | Recyclage_4_Energie    |
 |-------|-----|
@@ -67,7 +63,6 @@
 | 4     |   58|
 
 - [Culture et traditions alimentaires](6-CultureTraditions.md)
-    - Sous catégorie score_1_regimeAlimentaire
 
 | score | CultureTraditions_1_regimeAlimentaire   |
 |-------|-----|
@@ -78,7 +73,6 @@
 | 4     | 327 |
 
 - [Cocreation](7-Cocreation.md)
-    - Manque la sous catégorie 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES (plus de 1700 exploitations encore à classer)
 
 | score | Cocreation_1_Plateformes | Cocreation_2_AccesConnaissances | Cocreation_3_Participation |
 |-------|--------------------------|---------------------------------|----------------------------|
@@ -91,7 +85,6 @@
 
 
 - [Gouvernance](10-Gouvernance.md)
-    - DONE (1 seule sous-catégorie à traiter via les données du RGA)
 
 | score | Gouvernance_1_Emancipation |
 |-------|----------------------------|
@@ -109,7 +102,8 @@
 
 ## Catégories et sous-catégories Tape NON traitées via le RGA
 
-- 6 CULTURE & TRADITIONS ALIMENTAIRES
+- 6.2 IDENTITÉ ET CONSCIENCE LOCALES OU TRADITIONNELLES (PAYSANNES/INDIGÈNES)
+- 6.3 UTILISATION DE VARIETÉS/RACES LOCALES ET CONNAISSANCES TRADITIONNELLES (PAYSANNES / INDIGÈNES) POUR LA PRÉPARATION DES ALIMENTS
 - 8.1 ÉMANCIPATION DES FEMMES
 - 10.2 ORGANIZATIONS ET ASSOCIATIONS DE PRODUCTEURS
 - 10.3 PARTICIPATION DES PRODUCTEURS DANS LA GOUVERNANCE DE LA TERRE ET DES RESSOURCES NATURELLES

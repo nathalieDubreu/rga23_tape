@@ -5,6 +5,13 @@
 
 ## 7.1 PLATEFORMES POUR LA CRÉATION ET LE TRANSFERT HORIZONTAL DE CONNAISSANCES ET DE BONNES PRATIQUES
 
+- Au sein de votre environnement professionnel ou localement, êtes-vous :
+  - Isolé.................................................................................................1
+  - Adhérent d’une structure agricole (association, coopérative)..........................................2
+  - Engagé dans des instances décisionnaires (CAPL, commissions agricoles des communes, syndicats, ...)...3
+  - Inscrit sur des sites Facebook ou autres traitant de l’agriculture....................................4
+  - Visité par des techniciens agricoles pour du conseil..................................................5
+
 | Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0     | Aucune plateforme de co-création et partage de connaissances n’est disponible pour les producteurs.                                                                               |  ISOLE |

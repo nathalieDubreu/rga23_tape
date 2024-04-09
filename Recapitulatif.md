@@ -17,7 +17,7 @@
 |           |    3.4 Productivité et besoins du ménage                   |              ✔️             |              ✔️              |
 |  **4. Recyclage**          |       ---                                     |                 ---               |             ---                    |
 |           |    4.1 Recyclage de la biomasse et des nutriments          |                           |                            |
-|           |    4.2 Préservation et conservation de l’eau                |                           |                            |
+|           |    4.2 Préservation et conservation de l’eau                |           ⏳                |                            |
 |           |    4.3 Gestion des graines et des races animales           |                           |                            |
 |           |    4.4 Energie renouvelable (utilisation et production)    |             ✔️              |           ✔️                 |
 |  **5. Résilience**          |        ---                                   |          ---                 |           ---                 |

@@ -46,7 +46,7 @@
     - 75% -> 4
     - 100% -> 5 
 
-| Sous catégorie | Description                                                                                       | Filtre                                                |
+| Niveau | Description                                                                                       | Filtre                                                |
 |----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 0              | Tous les intrants sont produits et achetés en dehors de l’agroécosystème.                       | Si animaux : aliments achetés exclusivement / Si semences : pas d'auto-production / Si plants : pas d'auto-production / Pas d'énergie renouvelable                           |
 | 1              | La majorité des intrants sont achetés en dehors de l’agroécosystème.                             | Si animaux : autonomie alimentaire < 25% / Moyenne d'auto-production des plants et semences : moins de 25% / Pas d'énergie renouvelable ou ~ 25%               |
@@ -94,7 +94,7 @@
      - Une partie de vos cultures/espèces
      - Une seule culture/espèce
 
-| Sous catégorie | Description | Filtre |
+| Niveau | Description | Critères |
 |--------|-------------|--------|
 |   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET aucune des pratiques considérées |
 |   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | (Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET au moins une des pratiques considérées) OU (Engrais de synthèse sur toutes les cultures et espèces + engrais minéraux bio et/ou engrais organiques) |
@@ -104,7 +104,7 @@
 
 ## 3.3 GESTION DES PESTES ET DES MALADIES
 
-| Sous catégorie | Description | Filtre |
+| Niveau | Description | Critères |
 |--------|-------------|--------|
 |   0    | Les pesticides chimiques et les médicaments sont utilisés régulièrement pour la lutte contre les ravageurs et les maladies. Aucune autre gestion n’est utilisée. | Utilisation de produits phyto chimiques sur toutes les cultures/espèces |
 |   1    | Les pesticides et médicaments chimiques sont utilisés pour une culture/un animal spécifique uniquement. Certaines substances biologiques et pratiques organiques sont appliquées sporadiquement. | Utilisation de produits phyto chimiques sur une partie des cultures/espèces OU utilisation de glyphosate |
@@ -114,7 +114,7 @@
 
 ## 3.4 PRODUCTIVITÉ ET BESOINS DU MÉNAGE
 
-| Niveau | Description | Filtre |
+| Niveau | Description | Critères |
 |--------|-------------|--------|
 |   0    | Les besoins du ménage ne sont pas satisfaits en nourriture ni en d’autres produits essentiels. | Réponse NON à la question "Vos besoins en nourriture et autres produits essentiels sont-ils satisfaits par votre production ou les revenus de votre production agricole ?" |
 |   1    | La production ne couvre que les besoins alimentaires du ménage. Pas de surplus pour générer des revenus. | Réponse NON à la question "Les revenus de votre production agricole vous permettent-ils de réaliser des économies ?" + Pas de vente de produits ni végétaux ni animaux |

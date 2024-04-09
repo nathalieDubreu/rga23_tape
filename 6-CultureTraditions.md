@@ -11,7 +11,7 @@
   - Moins fréquemment............5/5
   - Jamais.......................6/6
 
-| Sous catégorie | Description                                                                                       | Critères                                                |
+| Niveau | Description                                                                                       | Critères                                                |
 |----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | 0     | L’alimentation est systématiquement insuffisante pour répondre aux besoins nutritionnels et méconnaissance des bonnes pratiques nutritionnelles.                           |  3 des 4 types d'aliments sont consommés quotidiennement et le dernier au moins plusieurs fois par semaine |
 | 1     | L’alimentation est périodiquement insuffisante pour répondre aux besoins nutritionnels et ou le régime alimentaire est basée sur un nombre limité de groupes alimentaires. Manque de sensibilisation aux bonnes pratiques nutritionnelles. | Les 4 types d'aliments sont consommés en moyenne plusieurs fois par semaine  |

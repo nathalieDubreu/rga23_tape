@@ -12,7 +12,7 @@
   - Inscrit sur des sites Facebook ou autres traitant de l’agriculture....................................4
   - Visité par des techniciens agricoles pour du conseil..................................................5
 
-| Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                        |
+| Niveau | Description                                                                                                                                                                                                                             | Critères                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0     | Aucune plateforme de co-création et partage de connaissances n’est disponible pour les producteurs.                                                                               |  ISOLE |
 | 1     | Au moins une plateforme de co-création et partage de connaissances existe mais ne fonctionne pas bien et/ou n’est pas utilisée dans la pratique.                               | ISOLE mais pourrait ne pas l'être car habitant à Tahiti, Moorea, Raiatea, Nuku Hiva, Tubuai (donc présence sûre de plateforme)  |
@@ -23,7 +23,7 @@
 
 ## 7.2 ACCÈS AUX CONNAISSANCES AGROÉCOLOGIQUES ET INTÉRÊT DES PRODUCTEURS À L’AGROÈCOLOGIE
 
-| Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                        |
+| Niveau | Description                                                                                                                                                                                                                             | Critères                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0    | Manque d’accès aux connaissances agroécologiques: les producteurs ignorent les principes de l’agroécologie.                                                                                                                            | Que chimique + ne connaît pas les pratiques      |
 | 1    | Les principes de l’agroécologie sont pour la plupart inconnus aux producteurs et/ou il y a peu de confiance en eux.                                                                                                                  | Que chimique mais connaît les pratiques  OU alors uniquement engrais chimiques mais pas de produits phytosanitaires du tout       |
@@ -36,7 +36,7 @@
 - Réseaux : "Y-a-t-il des évenements/animations/rencontres de la communauté locale agricole sur votre île (marché, réunion, ...) ?"
 - Rappel : Pas de distinction hommes femmes comme dans tout le reste de l'analyse
 
-| Index | Sous catégorie                                                                                                                                                                                                                              | Filtres                                       |
+| Niveau | Description                                                                                                                                                                                                                             | Critères                                       |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0    | Les producteurs sont isolés, n’ont pratiquement aucune relation avec leur communauté locale et ne participent pas aux réunions et aux organisations locales.                                                                                                                                                                | Existence de Réseaux + il y participe jamais OU pas de Réseaux sur l'île      |
 | 1    | Les producteurs entretiennent des relations sporadiques avec leur communauté locale et participent rarement aux réunions et aux organisations locales.                                                                                                                                                                     | Existence de Réseaux + il y participe rarement        |

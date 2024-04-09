@@ -17,7 +17,7 @@ La répartition dans cette sous-catégorie repose sur deux questions dans le RGA
     - Non, peu de moyens (financier, organisationnel, ...)...4
     - Non, pas de moyens (financier, organisationnel, ...)...5
 
-| Niveau | Sous catégorie | Critères 1 | Critères 2 |
+| Niveau | Description | Critères 1 | Critères 2 |
 |--------|-------------|----------|------------|
 | 0      | Les droits des producteurs ne sont pas respectés. Ils n’ont aucun pouvoir de négociation et n’ont pas les moyens d’améliorer leurs moyens de subsistance et de développer leurs compétences. | NON à la question "ProbActivite" et non PAS de moyens de développer les compétences                                       |  |
 | 1      | Les droits des producteurs sont reconnus mais pas toujours respectés. Ils ont un faible pouvoir de négociation et peu de moyens pour améliorer leurs moyens de subsistance et/ou développer leurs compétences. | NON à la question "ProbActivite" ou en se regroupant avec d'autres agriculteurs et non PEU de moyens de développer les compétences | Pas de possibilité de se défendre en cas de problème qui menacerait l'activité ou vos revenus agricoles mais possibilité de se former (voire formations déjà suivies) - vu FAO |

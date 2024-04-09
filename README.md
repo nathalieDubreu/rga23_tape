@@ -29,7 +29,7 @@
 | 4     | 292                  | ---                  | 1984                | 238                  |
 | 55    | ---                  | ---                  | ---                 | 43                   |
 
-![image](https://github.com/nathalieDubreu/rga23_tape/assets/58486181/610b1f61-698e-4d9e-8d19-f2728ad68135)
+![image](Graphiques/scoresDiversite.pdf)
 
 - [Synergies](2-Synergies.md)
       

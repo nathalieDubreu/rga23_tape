@@ -1,6 +1,6 @@
 | Catégorie | Sous catégorie                               |     Etat d'avancement     |        Accord FAO          |
 |-----------|-------------------------------------------------------------|:-------------------------:|:--------------------------:|
-|   **1. Diversité**         |...    **1. Diversité**                ...|            ---               |             ---               |
+|   **1. Diversité**         |......    **1. Diversité**                ......|            ---               |             ---               |
 |           |    1.1 Cultures                                            |            ✔️             |            ✔️                |
 |           |    1.2 Animaux (y compris les poissons et les insectes)    |            ✔️             |            ✔️              |
 |           |    1.3 Arbres (et autres vivaces)                          |            ✔️             |            ✔️            |

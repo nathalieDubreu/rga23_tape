@@ -37,7 +37,7 @@
 |           |    8.3 Émancipation de la jeunesse et émigration            |                           |                            |
 |           |    8.4 Bien-être animal [si applicable]                    |                           |                            |
 |   **9. Économie circulaire & solidaire**         |       ---              |           ---                |          ---                  |
-|           |    9.1 Produits et services commercialisés sur le marché local |                           |                            |
+|           |    9.1 Produits et services commercialisés sur le marché local |           ⏳                |                            |
 |           |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |                  |                            |
 |           |    9.3 Système alimentaire local                           |                           |                            |
 |   **10. Gouvernance responsable**        |      ---                        |         ---                  |         ---                   |

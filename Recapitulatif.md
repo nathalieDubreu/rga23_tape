@@ -13,7 +13,7 @@
 |   **3. Efficience**          |          ---                               |                ---               |             ---                 |
 |           |    3.1 Utilisation d’intrants extérieurs                   |           ⏳ (reprendre pénalités)              |                            |
 |           |    3.2 Gestion de la fertilité du sol                      |            ✔️              |                            |
-|           |    3.3 Gestion des pestes et des maladies                  |             ⏳ (attendre retours Laurent)             |                            |
+|           |    3.3 Gestion des pestes et des maladies                  |             ✔️             |                            |
 |           |    3.4 Productivité et besoins du ménage                   |              ✔️             |              ✔️              |
 |  **4. Recyclage**          |       ---                                     |                 ---               |             ---                    |
 |           |    4.1 Recyclage de la biomasse et des nutriments          |                           |                            |

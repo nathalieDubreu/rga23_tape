@@ -66,13 +66,13 @@
     - Assuré sur la ferme...........................................1
     - Produit localement à l'extérieur de la ferme (en Polynésie)...2
     - Importé.......................................................3"
-- Niveau d'auto-production des semences :
+- Niveau d'auto-production des semences (
+_La part d'auto-production des semences est majorée à 5 s'il n'y a que des semences auto-produites et/ou données par d'autres agriculteurs_) : 
    - 0 à 10% du volume utilisé.......1
    - 10 à 25% du volume utilisé......2
    - 25 à 50% du volume utilisé......3
    - 50 à 75% du volume utilisé......4
    - Plus de 75% du volume utilisé...5
-_La part d'auto-production des semences est majorée à 5 s'il n'y a que des semences auto-produites et/ou données par d'autres agriculteurs_
 
 | Niveau | Description | Critères |
 |--------|-------------|----------|

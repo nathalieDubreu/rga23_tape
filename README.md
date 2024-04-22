@@ -94,6 +94,17 @@
 
 ![image](Graphiques/scoresCocreation.png)
 
+- [Econome circulaire et solidaire](9-EconomieCirculaire.md)
+
+| score | EcoCirculaire_1_MarchesLocaux |
+|-------|------------------------------|
+| 0     | 294                          |
+| 1     | 90                           |
+| 2     | 329                          |
+| 3     | 244                          |
+| 4     | 1981                         |
+| 55    | 156                          |
+
 - [Gouvernance](10-Gouvernance.md)
 
 | score | Gouvernance_1_Emancipation |

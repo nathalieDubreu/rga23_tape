@@ -60,13 +60,15 @@
 
 - [Recyclage](4-Recyclage.md)
 
-| score | Recyclage_4_Energie    |
-|-------|-----|
-| 0     | 2939|
-| 1     |   28|
-| 2     |   25|
-| 3     |   44|
-| 4     |   58|
+| score | Recyclage_1_BiomasseDechets | Recyclage_2_Eau | Recyclage_3_GrainesRaces | Recyclage_4_Energie |
+|-------|------------------------------|-----------------|--------------------------|---------------------|
+| 0     | 1970                         | 1222            | ---                      | 2939                |
+| 1     | 780                          | 935             | ---                      | 28                  |
+| 2     | 104                          | 619             | ---                      | 25                  |
+| 3     | 182                          | 44              | ---                      | 44                  |
+| 4     | 58                           | 14              | ---                      | 58                  |
+| 55    | ---                          | 89              | 3094                     | ---                 |
+| 99    | ---                          | 171             | ---                      | ---                 |
 
 - [Culture et traditions alimentaires](6-CultureTraditions.md)
 

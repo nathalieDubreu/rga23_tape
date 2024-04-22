@@ -59,6 +59,30 @@
 | 4     | Plusieurs types d’installations pour la collecte ou la préservation de l’eau et différentes pratiques pour limiter l’utilisation de l’eau. |                 Au moins 2 types d'installation parmi la liste précédente + Paillage et/ou Goutte à goutte et/ou Micro-asperseurs et/ou arbres hors rente utilisés pour l'ombrage (min 2 de ces 4 techniques)                                                            |
 | 99 | Non concernés                                                                                              | Pas de cultures sur l'exploitation donc les questions d'irrigation n'ont pas été posées                                                                    |
 
+## 4.3 GESTION DES GRAINES ET DES RACES ANIMALES
+
+### Données prises en compte : 
+- RenouvAnimaux :
+    - Assuré sur la ferme...........................................1
+    - Produit localement à l'extérieur de la ferme (en Polynésie)...2
+    - Importé.......................................................3"
+- Niveau d'auto-production des semences :
+   - 0 à 10% du volume utilisé.......1
+   - 10 à 25% du volume utilisé......2
+   - 25 à 50% du volume utilisé......3
+   - 50 à 75% du volume utilisé......4
+   - Plus de 75% du volume utilisé...5
+_La part d'auto-production des semences est majorée à 5 s'il n'y a que des semences auto-produites et/ou données par d'autres agriculteurs_
+
+| Niveau | Description | Critères |
+|--------|-------------|----------|
+| 0      | Toutes les graines et/ou les ressources génétiques animales (par ex. poussins, jeunes animaux, sperme) sont achetées sur le marché. | Si animaux : renouvellement au moins en partie Importé ou Produit localement à l'extérieur de la ferme (en Polynésie) / Si graines : Commercialisées localement et/ou Importées |
+| 1      | Plus de 80 pour cent des graines/ressources génétiques animales sont achetées sur le marché. | Auto-production graines : 0 à 25% du volume utilisé |
+| 2      | Environ la moitié des graines sont autoproduites ou échangées, l’autre moitié est achetée au marché. Environ la moitié de l’élevage se fait dans les fermes voisines. | Auto-production graines : 25 à 50% du volume utilisé |
+| 3      | La majorité des graines/ressources génétiques animales sont autoproduites ou échangées. Certaines graines spécifiques sont achetées sur le marché. | Auto-production graines : 50 à 75% du volume utilisé OU graines auto-produites à plus de 75% mais renouvellement des animaux hors de la ferme |
+| 4      | Toutes les graines/ressources génétiques animales sont autoproduites, échangées avec d’autres agriculteurs ou gérées collectivement, assurant suffisamment de renouvellement et de diversité. | Si animaux : renouvellement uniquement assuré sur la ferme / Si graines : auto produites et/ou données à plus de 75% |
+| 99     | Non concernés | Pas d'animaux et pas d'utilisation de graines (semences) |
+
 ## 4.4 ENERGIE RENOUVELABLE (UTILISATION ET PRODUCTION)
 
 | Niveau | Description | Critères |

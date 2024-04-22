@@ -1,5 +1,23 @@
 # RECYCLAGE - Critères d'affectations dans les sous catégories 
 
+## 4.1 RECYCLAGE DE LA BIOMASSE ET DES NUTRIENTS
+
+### Données prises en compte : 
+- Déchets non organiques (RecyclDechets) : Est-ce que vous recyclez les déchets non organiques en fin de vie (plastiques, ...) générés dans l'exploitation ? OUI/NON/EN PARTIE
+- Engrais organiques ou amendements (PropRecyclEngraisOrga) : Quelle proportion de ces engrais organiques et amendements valorisez-vous (vente, épandage...) en volume ?
+   - 0 à 25%.......1
+   - 25 à 50%......2
+   - 50 à 75%......3
+   - Plus de 75%...4
+
+| Niveau | Description | Critères |
+|--------|-------------|----------|
+| 0      | Les résidus et sous-produits ne sont pas recyclés (par ex. laissés à se décomposer ou brûlés). Des grandes quantités de déchets sont déversés ou brûlées. | 0 à 25% de recyclage des déchets organiques (ou pas d'engrais organiques utilisé) et pas de recyclage du non organique |
+| 1      | Une petite partie des résidus et sous-produits est recyclée (par ex. résidus de cultures comme aliments pour animaux, utilisation de fumier comme engrais, production de compost à partir de fumier et de déchets ménagers, engrais vert). Les déchets sont déversés ou brûlés. | 0% à 50% de recyclage des déchets organiques OU pas d'engrais organiques mais recyclage d'au moins une partie du non organique |
+| 2      | Plus de la moitié des résidus et sous-produits sont recyclés. Certains déchets sont déversés ou brûlés. | Recyclage de 50 à 75% des engrais organiques mais pas de recyclage du non organique (ou seulement en partie) |
+| 3      | La plupart des résidus et sous-produits sont recyclés. Seuls quelques déchets sont déversés ou brûlés. | Recyclage de 50 à 75% des engrais organiques et recyclage de tout le non organique OU recyclage de plus de 75% de l'organique mais pas de recyclage du non organique (ou seulement en partie) |
+| 4      | Tous les résidus et sous-produits sont recyclés. Aucun déchet n’est déversé ou brûlé. | Recyclage de plus de 75% des engrais organiques et de tout le non organique |
+
 ## 4.2 PRÉSERVATION ET CONSERVATION DE L’EAU
 
 ### Données prises en compte : 

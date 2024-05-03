@@ -72,6 +72,18 @@
 
 ![image](Graphiques/scoresRecyclage.png)
 
+- [Résilience](5-Resilience.md)
+
+| score | Resilience_1_StabiliteProduction | Resilience_2_ReductionVulnerabilite |
+|-------|----------------------------------|--------------------------------------|
+| 0     | 51                               | 1826                                 |
+| 1     | 657                              | 22                                   |
+| 2     | 1452                             | 58                                   |
+| 3     | 581                              | 298                                  |
+| 4     | 80                               | 2                                    |
+| 55    | ---                              | 888                                  |
+| 99    | 273                              | ---                                  |
+
 - [Culture et traditions alimentaires](6-CultureTraditions.md)
 
 | score | CultureTraditions_1_regimeAlimentaire   |

@@ -39,6 +39,8 @@
 
 ## 8.2 TRAVAIL (CONDITIONS DE PRODUCTION, INÉGALITÉS SOCIALES)
 
+- ATTENTION CHEFS D'EXPLOITATIONS UNIQUEMENT et toujours pas de déclinaison Hommes/Femmes
+
 | Niveau | Description | Critères |
 |--------|-------------|----------|
 | 0      | Les chaînes d’approvisionnement agricoles sont intégrées et gérées par l’agro-industrie. Il existe une distance sociale et économique entre les propriétaires fonciers et les travailleurs. Et/ou les travailleurs n’ont pas de conditions de travail décentes, font de bas salaires et sont très exposés aux risques. | Plus de 50% du temps = travail pénible ET utilisation de produits phyto chimiques OU glyphosate ET revenu ne couvre pas les besoins essentiels |

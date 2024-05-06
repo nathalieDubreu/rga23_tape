@@ -106,6 +106,19 @@
 
 ![image](Graphiques/scoresCocreation.png)
 
+- [Valeurs humaines et sociales](8-ValeursHumainesSociales.md)
+
+| score | ValeursHumaines_2_Travail | ValeursHumaines_4_BienEtreAnimal |
+|-------|----------------------------|----------------------------------|
+| 0     | 30                         | 34                               |
+| 1     | 109                        | 79                               |
+| 2     | 399                        | 100                              |
+| 3     | 897                        | 32                               |
+| 4     | --                         | 41                               |
+| 55    | 1659                       | 585                              |
+| 99    | --                         | 2223                             |
+
+
 - [Econome circulaire et solidaire](9-EconomieCirculaire.md)
 
 | score | EcoCirculaire_1_MarchesLocaux |

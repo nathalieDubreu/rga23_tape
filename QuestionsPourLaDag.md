@@ -87,7 +87,7 @@
 
 - Parmi les 585 :
    - 467 : pas de moments de privation mais pas de visites
-   - visites de techniciens et ou de vétérinaires + 1 seule raison de manque ?
+   - visites de techniciens et/ou de vétérinaires + 1 seule raison de manque ?
    - ...
 
 

@@ -18,5 +18,5 @@
 | 3      | La plupart des produits/services sont commercialisés localement. | Cultures ou élevage : La plupart des produits sont commercialisés sur l’île OU pas de vente de ces produits |
 | 4      | Tous les produits/services sont commercialisés localement. | Cultures ou élevage : Tout est commercialisé sur l’île OU pas de vente de ces produits |
 
-- Critères 2 : pour les exploitations non classées à l'aide de ces premiers critères, prise en compte de la destination des produits de cultures uniquement si leur poids dans l'exploitation en nombre de points CAPL est de plus de 1/3 et inversement pour l'élevage.
+- **Critères 2** : pour les exploitations non classées à l'aide de ces premiers critères, prise en compte de la destination des produits de cultures uniquement si leur poids dans l'exploitation en nombre de points CAPL est de plus de 1/3 et inversement pour l'élevage.
 

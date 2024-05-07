@@ -26,6 +26,8 @@
    - Oui, de façon occasionnelle...2
    - Non...........................3
 
+- NoteSatisfactionExpl : Quel est votre niveau de satisfaction au travail (note de 1 à 10) ?
+
 | Niveau | Description                                                                                              | Critères                                                                    |
 |--------|-------------|------------|
 | WIP | Questions pour la DAG en attente |  |

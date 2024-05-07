@@ -8,7 +8,7 @@
 | 0 | Pas d’accès au crédit, pas d’assurance, pas de mécanismes de soutien communautaire. | Non à tout (8) |
 | 1 | La communauté n’est pas très favorable et sa capacité à aider après les chocs est très limitée. Et / ou l’accès au crédit et à l’assurance est limité. | Accès uniquement au 2 |
 | 2 | La communauté est solidaire mais sa capacité à aider après les chocs est limitée. Et / ou l’accès au crédit est disponible mais difficile à obtenir en pratique. L’assurance est rare et ne permet pas une couverture complète contre les risques. | Accès uniquement aux 3 et/ou 7 (+ éventuellement le 2) OU accès uniquement au 5 (aide de pays) OU accès uniquement au 6 (défiscalisation) OU accès uniquement au 1 (Crédits (accès facile)) |
-| 3 | La communauté est très solidaire aux hommes et aux femmes, mais sa capacité à aider après les chocs est limitée. Et / ou l’accès au crédit est disponible et l’assurance ne couvre que des produits / risques spécifiques. | Au moins deux parmi 1, 3, 5 et 6 mais pas 4 |
+| 3 | La communauté est très solidaire aux hommes et aux femmes, mais sa capacité à aider après les chocs est limitée. Et / ou l’accès au crédit est disponible et l’assurance ne couvre que des produits / risques spécifiques. | Au moins deux parmi 1, 2, 3, 5 et 6 mais pas 4 |
 | 4 | La communauté soutient fortement les hommes et les femmes et peut apporter une aide significative après les chocs. Et / ou l’accès au crédit est quasi systématique et l’assurance couvre l’essentiel de la production. | Au moins le 4 |
 
 - Il y a pas mal d'exploitations (888) qui ne sont pas classées avec ces filtres. 

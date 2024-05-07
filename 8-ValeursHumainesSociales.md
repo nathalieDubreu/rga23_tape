@@ -54,6 +54,25 @@
    - Autre public.............3
    - Aucun de ces visiteurs...4
 
-| Niveau | Description                                                                                              | Critères                                                                    |
-|--------|-------------|------------|
-| WIP | Questions pour la DAG en attente |  |
+| Niveau | Description                                                                                                         | Conditions                                                                                       |
+|--------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 0      | Les animaux souffrent de la faim, de la soif, du stress et des maladies toute l’année et sont abattus sans éviter de douleur inutile. | OUI moments sans eau ou aliments pour 2 raisons différentes OU pour cause de manque de main d'oeuvre + pas de visites véto ni technicien ni autre public |
+| 1      | Les animaux souffrent périodiquement/de façon saisonnière de la faim, de la soif, du stress ou des maladies, et sont abattus sans éviter de douleur inutile. | OUI moments sans eau ou aliments pour 1 seule raison + pas de visites véto ni technicien ni autre public |
+| 2      | Les animaux ne souffrent ni de faim ni de soif, mais souffrent de stress, peuvent être sujets à des maladies et peuvent souffrir de douleurs à l’abattage. | Pas de moments de privation + visite véto OU technicien Mais pas d'abattoir (donc hors Tahiti) |
+| 3      | Les animaux ne souffrent pas de faim, de soif ou de maladies mais peuvent souffrir de stress, notamment lors de l’abattage. | Pas de moments de privation + visite véto ET technicien Mais pas d'abattoir (donc hors Tahiti) |
+| 4      | Les animaux ne souffrent pas de stress, de faim, de soif, de douleur ou de maladies et sont abattus de manière à éviter toute douleur inutile. | Pas de moments de privation + visite véto ou technicien + abattoir (donc Tahiti) |
+| 99     | NON CONCERNE                                                                                                        | Pas d'élevages                                                                                    |
+
+| score | n    |
+|-------|------|
+| 0     | 34   |
+| 1     | 79   |
+| 2     | 100  |
+| 3     | 32   |
+| 4     | 41   |
+| 55    | 585  |
+| 99    | 2223 |
+
+- Parmi les 585 :
+   - 467 : pas de moments de privation mais pas de visites
+- Correspond à une réalité en Polynésie française. Ces exploitations ne peuvent etre classées en l'état. Analyse à faire a posteriori par archipel notamment.

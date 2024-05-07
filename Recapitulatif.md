@@ -21,8 +21,8 @@
 |           |    4.3 Gestion des graines et des races animales           |             ✔️              |                            |
 |           |    4.4 Energie renouvelable (utilisation et production)    |             ✔️              |           ✔️                 |
 |  **5. Résilience**          |        ---                                   |          ---                 |           ---                 |
-|           |    5.1 Stabilité de la production et capacité à résister aux perturbations |      ⏳          |                            |
-|           |    5.2 Mécanismes de réduction de la vulnérabilité         |         ⏳                  |                            |
+|           |    5.1 Stabilité de la production et capacité à résister aux perturbations |      ✔️          |                            |
+|           |    5.2 Mécanismes de réduction de la vulnérabilité         |         ✔️                  |                            |
 |  **6. Culture & traditions alimentaires**         |         ---           |         ---                  |          ---                  |
 |           |    6.1 Régime alimentaire approprié et conscience nutritionnelle |         ✔️              |                           |
 |           |    6.2 Identité et conscience locales ou traditionnelles (paysannes/indigènes) |    ❌       |              -              |
@@ -37,7 +37,7 @@
 |           |    8.3 Émancipation de la jeunesse et émigration            |            ❌               |             -               |
 |           |    8.4 Bien-être animal [si applicable]                    |              ⏳               |                            |
 |   **9. Économie circulaire & solidaire**         |       ---              |           ---                |          ---                  |
-|           |    9.1 Produits et services commercialisés sur le marché local |           ⏳                |                            |
+|           |    9.1 Produits et services commercialisés sur le marché local |           ✔️                |                            |
 |           |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |                  |                            |
 |           |    9.3 Système alimentaire local                           |                           |                            |
 |   **10. Gouvernance responsable**        |      ---                        |         ---                  |         ---                   |

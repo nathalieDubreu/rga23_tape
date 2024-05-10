@@ -121,14 +121,14 @@
 
 - [Econome circulaire et solidaire](9-EconomieCirculaire.md)
 
-| score | EcoCirculaire_1_MarchesLocaux |
-|-------|------------------------------|
-| 0     | 298                          |
-| 1     | 94                           |
-| 2     | 374                          |
-| 3     | 281                          |
-| 4     | 2000                         |
-| 55    | 47                           |
+| score | EcoCirculaire_1_MarchesLocaux | EcoCirculaire_2_ReseauxProducteurs | EcoCirculaire_3_SystAlimLocal |
+|-------|-------------------------------|--------------------------------------|-------------------------------|
+| 0     | 298                           | 551                                  | --                            |
+| 1     | 94                            | 260                                  | --                            |
+| 2     | 374                           | 370                                  | --                            |
+| 3     | 281                           | 180                                  | --                            |
+| 4     | 2000                          | 1636                                 | --                            |
+| 55    | 47                            | 97                                   | 3094                          |
 
 - [Gouvernance](10-Gouvernance.md)
 

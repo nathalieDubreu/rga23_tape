@@ -20,3 +20,23 @@
 
 - **Critères 2** : pour les exploitations non classées à l'aide de ces premiers critères, prise en compte de la destination des produits de cultures uniquement si leur poids dans l'exploitation en nombre de points CAPL est de plus de 1/3 et inversement pour l'élevage.
 
+## 9.2 RÉSEAUX DE PRODUCTEURS, RELATIONS AVEC LES CONSOMMATEURS ET INTERMÉDIAIRES
+
+### Données prises en compte : 
+
+- Part des Destinations des types de produits (7 types côté cultures et 3 côté élevage)
+  - Consommateurs et réseaux : 
+    - Vente directe au particulier ...................................5/5
+    - Vente à la coopérative ou au syndicat...........................10/10
+  - Intermédiaires : 
+    - Vente à un commerçant, artisan ou revendeur.....................7/7
+    - Vente à un grossiste............................................8/8
+    - Vente à un transformateur ou préparateur (y compris abattoir)...9/9
+
+| Niveau | Description | Critères |
+|------|-------------|-----------|
+| 0    | Il n’existe aucun réseau de producteurs pour commercialiser la production agricole. Aucune relation avec les consommateurs. Les intermédiaires gèrent l’ensemble du processus de commercialisation. | Ni 5 ni 10 ET part des intermédiaires (7,8,9) >= 75% pour au moins un type de vente |
+| 1    | Les réseaux existent mais ne fonctionnent pas correctement. Peu de relations avec les consommateurs. Les intermédiaires gèrent la plupart du processus de commercialisation. | Si 5 ou 10 : <= 40 % de sa production ET part des intermédiaires (7,8,9) >= 50% pour au moins un type de vente |
+| 2    | Les réseaux existent et sont opérationnels, mais n’incluent pas les femmes. Il existe une relation directe avec les consommateurs. Les intermédiaires gèrent une partie du processus de commercialisation. | Si 5 ou 10 : au moins une fois >= 50 % de sa production ET part des intermédiaires (7,8,9) >= 20% pour au moins un type de vente ET chef d'exploitation est un homme |
+| 3    | Les réseaux existent, sont opérationnels, et comprennent les femmes. Il existe une relation directe avec les consommateurs. Les intermédiaires gèrent une partie du processus de commercialisation. | Si 5 ou 10 : au moins une fois >= 50 % de sa production ET part des intermédiaires (7,8,9) >= 20% pour au moins un type de vente ET chef d'exploitation est une femme |
+| 4    | Des réseaux bien établis et opérationnels existent avec une participation égale des femmes. Relation solide et stable avec les consommateurs. Pas d’intermédiaires. | Pas de 7 ni 8 ni 9 |

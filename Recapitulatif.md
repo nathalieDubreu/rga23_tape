@@ -24,7 +24,7 @@
 |           |    5.1 Stabilité de la production et capacité à résister aux perturbations |      ✔️          |            ✔️               |
 |           |    5.2 Mécanismes de réduction de la vulnérabilité         |         ✔️                  |              ✔️              |
 |  **6. Culture & traditions alimentaires**         |         ---           |         ---                  |          ---                  |
-|           |    6.1 Régime alimentaire approprié et conscience nutritionnelle |         ✔️              |                           |
+|           |    6.1 Régime alimentaire approprié et conscience nutritionnelle |         ✔️              |              ✔️             |
 |           |    6.2 Identité et conscience locales ou traditionnelles (paysannes/indigènes) |    ❌       |              -              |
 |           |    6.3 Utilisation de variétés/races locales et connaissances traditionnelles (paysannes/indigènes) pour la préparation des aliments |          ❌             |           -                 |
 |  **7. Co-création & partage de connaissances**         |     ---         |        ---                   |         ---                   |
@@ -33,12 +33,12 @@
 |           |    7.3 Participation des producteurs aux réseaux et aux organisations de base |         ✔️            |                ✔️            |
 |   **8. Valeurs humaines & sociales**        |       ---                  |            ---               |          ---                  |
 |           |    8.1 Émancipation des femmes                             |            ❌               |             -               |
-|           |    8.2 Travail (conditions de production, inégalités sociales) |           ✔️                  |                            |
+|           |    8.2 Travail (conditions de production, inégalités sociales) |           ✔️                  |          ✔️                  |
 |           |    8.3 Émancipation de la jeunesse et émigration            |            ❌               |             -               |
-|           |    8.4 Bien-être animal [si applicable]                    |              ✔️               |                            |
+|           |    8.4 Bien-être animal [si applicable]                    |              ✔️               |             ✔️               |
 |   **9. Économie circulaire & solidaire**         |       ---              |           ---                |          ---                  |
-|           |    9.1 Produits et services commercialisés sur le marché local |           ✔️                |                            |
-|           |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |      ⏳            |                            |
+|           |    9.1 Produits et services commercialisés sur le marché local |           ✔️                |           ✔️                 |
+|           |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |      ✔️            |        ✔️                    |
 |           |    9.3 Système alimentaire local                           |            ⏳               |                            |
 |   **10. Gouvernance responsable**        |      ---                        |         ---                  |         ---                   |
 |           |    10.1 Émancipation des producteurs                        |          ✔️               |            ✔️                |

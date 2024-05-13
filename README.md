@@ -88,11 +88,11 @@
 
 | score | CultureTraditions_1_regimeAlimentaire   |
 |-------|-----|
-| 0     | 41  |
-| 1     | 219 |
-| 2     | 1112|
-| 3     | 1395|
-| 4     | 327 |
+| 0     | 327  |
+| 1     | 1395 |
+| 2     | 1112 |
+| 3     | 219 |
+| 4     | 41 |
 
 - [Cocreation](7-Cocreation.md)
 

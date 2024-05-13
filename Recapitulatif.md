@@ -13,10 +13,10 @@
 |   **3. Efficience**          |          ---                        |                ---               |             ---                 |
 |           |    3.1 Utilisation d’intrants extérieurs                   |           ✔️              |               ✔️             |
 |           |    3.2 Gestion de la fertilité du sol                      |            ⏳              |                            |
-|           |    3.3 Gestion des pestes et des maladies                  |             ✔️             |                            |
+|           |    3.3 Gestion des pestes et des maladies                  |             ✔️             |              ✔️              |
 |           |    3.4 Productivité et besoins du ménage                   |              ✔️             |              ✔️              |
 |  **4. Recyclage**          |       ---                                     |                 ---               |             ---                    |
-|           |    4.1 Recyclage de la biomasse et des nutriments          |            ✔️               |                            |
+|           |    4.1 Recyclage de la biomasse et des nutriments          |            ✔️               |             ✔️               |
 |           |    4.2 Préservation et conservation de l’eau                |           ✔️                |                            |
 |           |    4.3 Gestion des graines et des races animales           |             ✔️              |                            |
 |           |    4.4 Energie renouvelable (utilisation et production)    |             ✔️              |           ✔️                 |

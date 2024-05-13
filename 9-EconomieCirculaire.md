@@ -41,6 +41,46 @@
 | 3    | Les réseaux existent, sont opérationnels, et comprennent les femmes. Il existe une relation directe avec les consommateurs. Les intermédiaires gèrent une partie du processus de commercialisation. | Si 5 ou 10 : au moins une fois >= 50 % de sa production ET part des intermédiaires (7,8,9) >= 20% pour au moins un type de vente ET chef d'exploitation est une femme |
 | 4    | Des réseaux bien établis et opérationnels existent avec une participation égale des femmes. Relation solide et stable avec les consommateurs. Pas d’intermédiaires. | Pas de 7 ni 8 ni 9 |
 
+## 9.3 SYSTÈME ALIMENTAIRE LOCAL
+
+### Données prises en compte
+
+- Provenance semences :
+   - Commercialisées localement..................1
+   - Auto-produites..............................2
+   - Fournies par d'autres agriculteurs (dons)...3
+   - Importées par vous-même.....................4
+
+- Part d'autoproduction des semences
+    - 0 à 10% du volume utilisé.......1
+    - 10 à 25% du volume utilisé......2
+    - 25 à 50% du volume utilisé......3
+    - 50 à 75% du volume utilisé......4
+    - Plus de 75% du volume utilisé...5
+
+- RenouvAnimaux :
+  - Assuré sur la ferme...........................................1
+  - Produit localement à l'extérieur de la ferme (en Polynésie)...2
+  - Importé.......................................................3
+
+- TransformationPA : Réalisez-vous la transformation de produits agricoles (y compris si la matière première est achetée ailleurs) ?
+  - Transformation d’oléagineux (huiles de consommation ou pour combustible…).......................1/1
+  - Production d’huiles essentielles et hydrolats...................................................2/2
+  - Epluchage, découpe, conditionnement, 4ème gamme, ...............................................3/3
+  - Transformation de légumes (soupe, conserves…)...................................................4/4
+  - Transformation de racines ou tubercules (farine de manioc, kwak...).............................5/5
+  - Production issue de canne à sucre (jus de canne, rhum...).......................................6/6
+  - Transformation de vanille.......................................................................7/7
+  - Transformation de produits du cocotier (coprah, niau, lait de coco, …)..........................8/8
+  - Transformation de fruits (confitures, sirops, liqueurs, jus de fruits…).........................9/9
+  - Transformation de lait (beurre, yaourts, fromages, crème...)....................................10/10
+  - Abattage à la ferme.............................................................................11/11
+  - Transformation de viandes (pâtés, salaisons, conserves…)........................................12/12
+  - Découpe de viandes, caissettes….................................................................13/13
+  - Production de produits à base de miel...........................................................14/14
+  - Transformation d’autres produits agricoles (hors aliments pour les animaux de l’exploitation)...15/15
+  - Préparation de plats cuisinés...................................................................16/16
+  - Aucune transformation réalisée sur l'exploitation...............................................17/17
 
 | Niveau | Description | Critères |
 |--------|-------------|------------------|

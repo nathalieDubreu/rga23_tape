@@ -96,7 +96,7 @@
 
 | Niveau | Description | Critères |
 |--------|-------------|--------|
-|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET aucune des pratiques considérées |
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais organiques ni minéraux biologiques ET aucune des pratiques considérées |
 |   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | (Pas d'engrais ou uniquement "Engrais (ou amendements) de synthèse" ET au moins une des pratiques considérées) OU (Engrais de synthèse sur toutes les cultures et espèces + engrais minéraux bio et/ou engrais organiques) |
 |   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Engrais de synthèse sur une partie des cultures et espèces + engrais minéraux bio et/ou engrais organiques |
 |   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Engrais de synthèse + engrais minéraux bio et/ou engrais organiques et au moins une pratique considérée ou une seule espèce/culture concernée par le chimique |

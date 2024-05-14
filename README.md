@@ -18,7 +18,7 @@
     - Code 55 -> exploitations non classées (acceptable jusqu'à 10% du nombre d'exploitations)
     - Code 99 -> exploitations non concernées
 
-- [Diversité](1-Diversity.md)
+- [Diversité](CriteresCategories/1-Diversity.md)
     
 | score | Diversite_1_Culture | Diversite_2_Animaux | Diversite_3_Arbres | Diversite_4_Activite |
 |-------|----------------------|----------------------|---------------------|----------------------|
@@ -31,7 +31,7 @@
 
 ![image](Graphiques/scoresDiversite.png)
 
-- [Synergies](2-Synergies.md)
+- [Synergies](CriteresCategories/2-Synergies.md)
       
 | score | Synergies_1_Integration | Synergies_2_SolPlantes | Synergies_3_IntegrationArbres | Synergies_4_Connectivite |
 |-------|-------------------------|------------------------|-------------------------------|--------------------------|
@@ -45,7 +45,7 @@
 
 ![image](Graphiques/scoresSynergies.png)
 
-- [Efficience](3-Efficience.md)
+- [Efficience](CriteresCategories/3-Efficience.md)
  
 | score | Efficience_1_Intrants | Efficience_2_Engrais | Efficience_3_Pesticides | Efficience_4_ProductiviteBesoins |
 |-------|------------------------|----------------------|--------------------------|----------------------------------|
@@ -58,7 +58,7 @@
 
 ![image](Graphiques/scoresEfficience.png)
 
-- [Recyclage](4-Recyclage.md)
+- [Recyclage](CriteresCategories/4-Recyclage.md)
 
 | score | Recyclage_1_BiomasseDechets | Recyclage_2_Eau | Recyclage_3_GrainesRaces | Recyclage_4_Energie |
 |-------|------------------------------|-----------------|--------------------------|---------------------|
@@ -72,7 +72,7 @@
 
 ![image](Graphiques/scoresRecyclage.png)
 
-- [Résilience](5-Resilience.md)
+- [Résilience](CriteresCategories/5-Resilience.md)
 
 | score | Resilience_1_StabiliteProduction | Resilience_2_ReductionVulnerabilite |
 |-------|----------------------------------|--------------------------------------|
@@ -86,7 +86,7 @@
 
 ![image](Graphiques/scoresResilience.png)
 
-- [Culture et traditions alimentaires](6-CultureTraditions.md)
+- [Culture et traditions alimentaires](CriteresCategories/6-CultureTraditions.md)
 
 | score | CultureTraditions_1_regimeAlimentaire   |
 |-------|-----|
@@ -98,7 +98,7 @@
 
 ![image](Graphiques/scoresCultureTraditions.png)
 
-- [Cocreation](7-Cocreation.md)
+- [Cocreation](CriteresCategories/7-Cocreation.md)
 
 | score | Cocreation_1_Plateformes | Cocreation_2_AccesConnaissances | Cocreation_3_Participation |
 |-------|--------------------------|---------------------------------|----------------------------|
@@ -110,7 +110,7 @@
 
 ![image](Graphiques/scoresCocreation.png)
 
-- [Valeurs humaines et sociales](8-ValeursHumainesSociales.md)
+- [Valeurs humaines et sociales](CriteresCategories/8-ValeursHumainesSociales.md)
 
 | score | ValeursHumaines_2_Travail | ValeursHumaines_4_BienEtreAnimal |
 |-------|----------------------------|----------------------------------|
@@ -124,7 +124,7 @@
 
 ![image](Graphiques/scoresValeursHumaines.png)
 
-- [Econome circulaire et solidaire](9-EconomieCirculaire.md)
+- [Econome circulaire et solidaire](CriteresCategories/9-EconomieCirculaire.md)
 
 | score | EcoCirculaire_1_MarchesLocaux | EcoCirculaire_2_ReseauxProducteurs | EcoCirculaire_3_SystAlimLocal |
 |-------|-------------------------------|--------------------------------------|-------------------------------|
@@ -137,7 +137,7 @@
 
 ![image](Graphiques/scoresEcoCirculaire.png)
 
-- [Gouvernance](10-Gouvernance.md)
+- [Gouvernance](CriteresCategories/10-Gouvernance.md)
 
 | score | Gouvernance_1_Emancipation |
 |-------|----------------------------|

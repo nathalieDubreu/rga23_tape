@@ -84,6 +84,8 @@
 | 55    | ---                              | 10                                  |
 | 99    | 273                              | ---                                  |
 
+![image](Graphiques/scoresResilience.png)
+
 - [Culture et traditions alimentaires](6-CultureTraditions.md)
 
 | score | CultureTraditions_1_regimeAlimentaire   |
@@ -93,6 +95,8 @@
 | 2     | 1112 |
 | 3     | 219 |
 | 4     | 41 |
+
+![image](Graphiques/scoresCultureTraditions.png)
 
 - [Cocreation](7-Cocreation.md)
 
@@ -118,6 +122,7 @@
 | 55    | 296                        | 585                              |
 | 99    | --                         | 2223                             |
 
+![image](Graphiques/scoresValeursHumaines.png)
 
 - [Econome circulaire et solidaire](9-EconomieCirculaire.md)
 
@@ -130,6 +135,8 @@
 | 4     | 2000                          | 1636                                 | 147                            |
 | 55    | 47                            | 97                                   | 147                         |
 
+![image](Graphiques/scoresEcoCirculaire.png)
+
 - [Gouvernance](10-Gouvernance.md)
 
 | score | Gouvernance_1_Emancipation |
@@ -141,6 +148,7 @@
 | 4     | 468                        |
 | 55    | 12                         |
 
+![image](Graphiques/scoresGouvernance.png)
 
 ## WIP
 - [Questions en attente de retours](QuestionsPourLaDag.md)

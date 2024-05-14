@@ -5,7 +5,7 @@
 - [Dictionnaire des variables et modalités du RGA](https://docs.google.com/spreadsheets/d/16DxQiRkNIRXOBTypMM7NZsaku60rkBLX/edit?usp=sharing&ouid=111896801001167457308&rtpof=true&sd=true)
 
 ## **Champ** : 
-- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus - cf. document PDF)
+- Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus - cf. [document PDF](2023 06 08 maj Annexe.pdf))
 - Hors points liés aux 2,7 tonnes de coprah
 - => 3094 unités
 

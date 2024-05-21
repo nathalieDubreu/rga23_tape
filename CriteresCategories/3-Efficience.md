@@ -104,13 +104,22 @@
 
 ## 3.3 GESTION DES PESTES ET DES MALADIES
 
+- Pratiques agro-écologiques
+  - Utilisation de plantes de services.............1
+  - Intercultures..................................2
+  - Paillage (plastique ou naturel)................5
+  - Jardins océaniens
+  - Agroforesterie
+  - Présence d'autres cultures maraîchères dans l'année
+  - Présence d'autres feuillages et cultures florales dans l'année
+
 | Niveau | Description | Critères |
 |--------|-------------|--------|
-|   0    | Les pesticides chimiques et les médicaments sont utilisés régulièrement pour la lutte contre les ravageurs et les maladies. Aucune autre gestion n’est utilisée. | Utilisation de produits phyto chimiques sur toutes les cultures/espèces |
-|   1    | Les pesticides et médicaments chimiques sont utilisés pour une culture/un animal spécifique uniquement. Certaines substances biologiques et pratiques organiques sont appliquées sporadiquement. | Utilisation de produits phyto chimiques sur une partie des cultures/espèces OU utilisation de glyphosate |
-|   2    | Les ravageurs et les maladies sont gérés par des pratiques biologiques, mais les pesticides chimiques sont utilisés seulement dans des cas spécifiques et très limités. | Utilisation de produits phyto chimiques sur une seule culture/espèce |
-|   3    | Aucun pesticide ni médicament chimique n’est utilisé. Les substances biologiques sont la norme. | Utilisation uniquement de produits phyto biologiques |
-|   4    | Aucun pesticide ni médicament chimique n’est utilisé. Les ravageurs et les maladies sont gérés par une variété de substances biologiques et de mesures de prévention. | Aucune utilisation de produits phyto [!! Plus de 80% des exploitations) | 
+|   0    | Les pesticides chimiques et les médicaments sont utilisés régulièrement pour la lutte contre les ravageurs et les maladies. Aucune autre gestion n’est utilisée. | Utilisation de produits phyto chimiques sur toutes les cultures/espèces OU utilisation de glyphosate |
+|   1    | Les pesticides et médicaments chimiques sont utilisés pour une culture/un animal spécifique uniquement. Certaines substances biologiques et pratiques organiques sont appliquées sporadiquement. | Utilisation de produits phyto chimiques sur une partie des cultures/espèces |
+|   2    | Les ravageurs et les maladies sont gérés par des pratiques biologiques, mais les pesticides chimiques sont utilisés seulement dans des cas spécifiques et très limités. | Utilisation de produits phyto chimiques sur une seule culture/espèce OU Aucune utilisation de produits phyto (ni chimiques ni bio) et aucune pratique |
+|   3    | Aucun pesticide ni médicament chimique n’est utilisé. Les substances biologiques sont la norme. | Utilisation uniquement de produits phyto biologiques et 0 ou 1 pratique OU Aucune utilisation de produits phyto (ni chimiques ni bio) et 1 ou 2 pratiques |
+|   4    | Aucun pesticide ni médicament chimique n’est utilisé. Les ravageurs et les maladies sont gérés par une variété de substances biologiques et de mesures de prévention. | Utilisation uniquement de produits phyto biologiques et au moins 2 pratiques OU Aucune utilisation de produits phyto et plus de 2 pratiques | 
 
 ## 3.4 PRODUCTIVITÉ ET BESOINS DU MÉNAGE
 

@@ -12,12 +12,12 @@
 |           |    2.4 Connectivité entre les éléments de l’agroécosystème et le paysage |      ✔️          |         ✔️                   |
 |   **3. Efficience**          |          ---                        |                ---               |             ---                 |
 |           |    3.1 Utilisation d’intrants extérieurs                   |           ✔️              |               ✔️             |
-|           |    3.2 Gestion de la fertilité du sol                      |            ✔️              |              ✔️             |
-|           |    3.3 Gestion des pestes et des maladies                  |             ✔️             |              ⏳              |
+|           |    3.2 Gestion de la fertilité du sol                      |            ✔️              |              ⏳             |
+|           |    3.3 Gestion des pestes et des maladies                  |             ✔️             |              ✔️              |
 |           |    3.4 Productivité et besoins du ménage                   |              ✔️             |              ✔️              |
 |  **4. Recyclage**          |       ---                                     |                 ---               |             ---                    |
 |           |    4.1 Recyclage de la biomasse et des nutriments          |            ✔️               |             ✔️               |
-|           |    4.2 Préservation et conservation de l’eau                |           ✔️                |            ✔️                |
+|           |    4.2 Préservation et conservation de l’eau                |           ✔️                |            ⏳                |
 |           |    4.3 Gestion des graines et des races animales           |             ✔️              |             ✔️              |
 |           |    4.4 Energie renouvelable (utilisation et production)    |             ✔️              |           ✔️                 |
 |  **5. Résilience**          |        ---                                   |          ---                 |           ---                 |
@@ -39,7 +39,7 @@
 |   **9. Économie circulaire & solidaire**         |       ---              |           ---                |          ---                  |
 |           |    9.1 Produits et services commercialisés sur le marché local |           ✔️                |           ✔️                 |
 |           |    9.2 Réseaux de producteurs, relations avec les consommateurs et intermédiaires |      ✔️            |        ✔️                    |
-|           |    9.3 Système alimentaire local                           |            ✔️               |              ✔️             |
+|           |    9.3 Système alimentaire local                           |            ✔️               |              ⏳             |
 |   **10. Gouvernance responsable**        |      ---                        |         ---                  |         ---                   |
 |           |    10.1 Émancipation des producteurs                        |          ✔️               |            ✔️                |
 |           |    10.2 Organizations et associations de producteurs       |          ❌              |              -              |

@@ -152,7 +152,6 @@
 ![image](Graphiques/scoresGouvernance.png)
 
 ## WIP
-- [Questions en attente de retours](QuestionsPourLaDag.md)
 - [Récapitulatif avancement](Recapitulatif.md)
 
 ## Sous-catégories Tape NON traitées via le RGA

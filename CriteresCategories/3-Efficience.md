@@ -94,13 +94,45 @@
      - Une partie de vos cultures/espèces
      - Une seule culture/espèce
 
-| Niveau | Description | Critères |
+- **Critères 0** : Classement des exploitations qui n'utilisent aucun engrais ou amendements (ni de synthèse, ni minéraux biologiques, ni organiques)
+
+| Niveau | Description | Critères 0 |
 |--------|-------------|--------|
-|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'engrais organiques ni minéraux biologiques ET aucune des pratiques considérées |
-|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. |  Pas d'engrais organiques ni minéraux biologiques ET au moins une des pratiques considérées OU (Engrais de synthèse + engrais minéraux bio et/ou engrais organiques ) |
-|   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Engrais de synthèse + engrais minéraux bio et/ou engrais organiques  et utilisation de phytosanitaires sur une partie des cultures et espèces |
-|   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Engrais de synthèse + engrais minéraux bio et/ou engrais organiques et au moins deux pratiques considérées ou utilisation de phytosanitaires sur une 0 ou seule espèce/culture OU Aucun engrais de synthèse et aucune pratique mais engrais minéraux et/ou organiques |
-|   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | Aucun engrais de synthèse mais minéraux et/ou organiques et au moins une pratique |
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'apport pour enrichir le sol en engrais/amendements et AUCUNE des pratiques de gestion de la fertilité considérées |
+|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | Pas d'apport pour enrichir le sol en engrais/amendements mais UNE des pratiques de gestion de la fertilité considérées |
+|   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Pas d'apport pour enrichir le sol en engrais/amendements mais au moins DEUX des pratiques de gestion de la fertilité considérées |
+|   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | XXX |
+|   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | XXX |
+
+- **Critères 1** : Classement des exploitations qui utilisent des engrais ou amendements de synthèse mais ni engrais/amendements minéraux biologiques, ni engrais/amendements organiques
+
+| Niveau | Description | Critères 1 |
+|--------|-------------|--------|
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | Pas d'apport pour enrichir le sol en engrais/amendements organiques ni minéraux biologiques. Apport uniquement avec des engrais synthétiques et AUCUNE des pratiques de gestion de la fertilité considérées |
+|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. | Pas d'apport pour enrichir le sol en engrais/amendements organiques ni minéraux biologiques. Apport uniquement avec des engrais synthétiques et UNE des pratiques de gestion de la fertilité considérées |
+|   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Pas d'apport pour enrichir le sol en engrais/amendements organiques ni minéraux biologiques. Apport uniquement avec des engrais synthétiques et au moins DEUX des pratiques de gestion de la fertilité considérées |
+|   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | XXX |
+|   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | XXX |
+
+- **Critères 2** : Classement des exploitations qui utilisent des engrais ou amendements de synthèse ET des engrais/amendements minéraux biologiques et/ou organiques
+  
+| Niveau | Description | Critères 2 |
+|--------|-------------|--------|
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | XXX |
+|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. |  Apport avec des engrais/amendements synthétiques ainsi qu'avec des engrais ou amendements minéraux biologiques et/ou organiques + utilisation de produits phytosanitaires sur toutes les cultures et espèces |
+|   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Apport avec des engrais/amendements synthétiques ainsi qu'avec des engrais ou amendements minéraux biologiques et/ou organiques + utilisation de produits phytosanitaires sur une seule culture et espèce ou sur une partie des cultures et espèces OU pas de produits phystosanitaires mais aucune pratique de gestion de la fertilité |
+|   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Apport avec des engrais/amendements synthétiques ainsi qu'avec des engrais ou amendements minéraux biologiques et/ou organiques + Pas d'utilisation de produits phytosanitaires ET au moins une pratique de gestion de la fertilité. |
+|   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | XXX |
+
+- **Critères 3** : Classement des exploitations qui n'utilisent pas d'engrais ou amendements de synthèse mais uniquement des engrais/amendements minéraux biologiques et/ou organiques
+
+| Niveau | Description | Critères 3 |
+|--------|-------------|--------|
+|   0    | Les engrais synthétiques sont utilisés régulièrement sur toutes les cultures et / ou prairies (ou aucun engrais n’est utilisé par manque d’accès, mais aucun autre système de gestion n’est utilisé). | XXX |
+|   1    | Les engrais synthétiques sont utilisés régulièrement sur la plupart des cultures et certaines pratiques biologiques (par exemple le fumier ou le compost) sont appliquées à certaines cultures et / ou prairies. |  XXX |
+|   2    | Les engrais synthétiques ne sont utilisés que sur quelques cultures spécifiques. Des pratiques biologiques sont appliquées aux autres cultures et / ou prairies. | Engrais/amendements minéraux bio et/ou engrais organiques mais AUCUNE pratique de gestion de la fertilité des sols |
+|   3    | Les engrais synthétiques ne sont utilisés qu’exceptionnellement. Une variété de pratiques biologiques sont la norme. | Engrais/amendements minéraux bio et/ou engrais organiques et UNE pratique de gestion de la fertilité des sols |
+|   4    | Aucun engrais synthétique n’est utilisé, la fertilité du sol est gérée uniquement à travers une variété de pratiques biologiques. | Engrais/amendements minéraux bio et/ou engrais organiques et au moins DEUX pratiques de gestion de la fertilité des sols |
 
 ## 3.3 GESTION DES PESTES ET DES MALADIES
 

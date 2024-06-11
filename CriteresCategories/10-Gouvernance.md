@@ -16,6 +16,8 @@ La répartition dans cette sous-catégorie repose sur deux questions dans le RGA
     - Oui, en m'associant avec d'autres producteurs..........3
     - Non, peu de moyens (financier, organisationnel, ...)...4
     - Non, pas de moyens (financier, organisationnel, ...)...5
+ 
+Une troisième variable entre en considération : il s’agit de la réponse à la question : « Avez-vous déjà suivi des modules de formation continue (stages ou autres depuis la fin des études) ? ». Il s’agit de formation continue, y compris en ligne, dans le domaine agricole ou en lien avec le métier de chef d’exploitation (ex : comptabilité, gestion, ...).
 
 | Niveau | Description | Critères 1 | Critères 2 |
 |--------|-------------|----------|------------|

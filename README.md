@@ -2,7 +2,7 @@
 
 ## Utiles
 - Tous les programmes R liés à cette analyse sont disponibles dans le dossier Tape du repository [rga23](https://github.com/nathalieDubreu/rga23) 
-- [Dictionnaire des variables et modalités du RGA](https://docs.google.com/spreadsheets/d/16DxQiRkNIRXOBTypMM7NZsaku60rkBLX/edit?usp=sharing&ouid=111896801001167457308&rtpof=true&sd=true)
+- Dictionnaire des variables et modalités du RGA (à télécharger depuis la racine du projet)
 
 ## **Champ** : 
 - Les exploitations éligibles au RGA 2023 en cultures ou en élevages respectant les seuils de la CAPL (400 points ou plus - cf. [annexe de l’arrêté n° 668 CM du 6 mai 2013 relatif à la Chambre et au registre de l'agriculture et de la pêche lagonaire (partie I - Activités agricoles)](2023_06_08_maj_Annexe.pdf))
